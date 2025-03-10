@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Civilian Ship", //Workers, Settlers(Colonizers), etc etc.
+    "movementType": "Land"
+  },
+  {
+    "name": "Corvette", //Scouts types here basically
+    "movementType": "Land"
+  },
+  {
+    "name": "Frigate", //Standard combat ship type
+    "movemenrType": "Land"
+  },
+]
