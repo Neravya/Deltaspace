@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Scanner I" //Corvette thingies
+    "uniques": ["[+1] Sight"],
+    "unitTypes": ["Corvette"],
+    "row": 7,
+    "column": 1,
+  },
+]
