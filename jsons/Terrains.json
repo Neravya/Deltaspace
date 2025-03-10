@@ -1,0 +1,31 @@
+[
+  //Base Terrain
+{
+  "name": "Space",
+  "type": "Land",
+  "food": 5,
+  "movementCost": 5
+  "RGB": [40,40,40],
+  "uniques": []
+},
+  //Terrain Features
+{
+  "name": "Asteroids",
+  "type": "TerrainFeature",
+  "production": 1,
+  "movementCost": 10,
+  "overrideStats": true,
+  "defenceBonus": 0.3,
+  "RGB": [150,150,150]
+  "occursOn": ["Space"]
+  "uniques": [
+    "Rough terrain",
+    "[+10] Strength for cities built on this terrain",
+    "Has an elevation of [2] for visbility calculations",
+    "Blocks line-of-sight from tiles at same elevation",
+    "[+1] to Fertility for Map Generation",
+    "A Region is formed with at least [20]% [Asteroids] tiles, with priority [7]",
+    "Considered [Desirable] when determining start locations",
+    "Considered [Production] when determining start locations"]
+},
+]
