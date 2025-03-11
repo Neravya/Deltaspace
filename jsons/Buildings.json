@@ -1,9 +1,9 @@
 [
 	// Buildings
 	{
-		"name": "Station Main Frame",
+		"name": "Colonization Module",
 		"isNationalWonder": true,
-    "food": 2,
+                "food": 2,
 		"production": 2,
 		"science": 2,
 		"gold": 2,
@@ -11,7 +11,6 @@
 		"cityStrength": 2,
 		"cost": 1,
 		"uniques": [
-			"Provides [2] [Modular Space]",
 			"Indicates the capital city"],
 		"civilopediaText": [
 			{
@@ -19,16 +18,30 @@
 			}
 		]
 	},
-
 	{
-		"name": "Frontier Headquarters",
+		"name": "Proxy Module",
 		"maintenance": 2,
+                "cost": 20,
 		"hurryCostModifier": 50,
 		"uniques": [
-			"Provides [2] [Modular Space]",
 			"Remove extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>",
 			"Destroyed when the city is captured"
 		],
-  }
+	},
+	// Old Era
+	{
+		"name": "Placeholder",
+		"culture": 2,
+		"cost": 20,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured",
+		           ],
+		"civilopediaText": [
+			{
+				"text": "Placeholder"
+			}
+		]
+	},
 ]
