@@ -1,0 +1,20 @@
+[
+	// Pantheon
+	{
+		"name": "Belief I",
+		"type": "Pantheon",
+		"uniques": ["[+1 Culture, +1 Faith] from every [Placeholder]"]
+	},
+	{
+		"name": "Belief II",
+		"type": "Pantheon",
+		"uniques": [
+			"[+1 Faith] from [Asteroids] tiles [in this city]"
+		]
+	},
+	{
+		"name": "Belief III",
+		"type": "Pantheon",
+		"uniques": ["[+1 Faith] from every [Nebula] tiles [in this city]"]
+	},
+]  
