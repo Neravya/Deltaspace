@@ -10,6 +10,4 @@ You can expect the following features:
 
     • An overhaul of the combat mechanics.
 
-    • Scarcity of Space!
-
-    • A City cannot hold a spam of buildings! Build strategically with module capacities!
+    • Scarcity of Space
