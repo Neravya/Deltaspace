@@ -48,7 +48,7 @@
 			{
 				"name": "Homestead Initiative",
 				"uniques": [
-					"Free [Colonizer] appears",
+					"Free [Station Builder] appears",
 					"[-25]% Culture cost of natural border growth [in all cities]"
 				],
 				"requires": ["Kraken Drive", "Spare Supplies"],
