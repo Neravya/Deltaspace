@@ -1,0 +1,34 @@
+[
+	// Buildings
+	{
+		"name": "Station Main Frame",
+		"isNationalWonder": true,
+    "food": 2,
+		"production": 2,
+		"science": 2,
+		"gold": 2,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": [
+			"Provides [2] [Modular Space]",
+			"Indicates the capital city"],
+		"civilopediaText": [
+			{
+				"text": "Mainframe Module of the City Station, has all the necessary built-in modules to kickstart your colonization to the sector."
+			}
+		]
+	},
+
+	{
+		"name": "Frontier Headquarters",
+		"maintenance": 2,
+		"hurryCostModifier": 50,
+		"uniques": [
+			"Provides [2] [Modular Space]",
+			"Remove extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>",
+			"Destroyed when the city is captured"
+		],
+  }
+]
