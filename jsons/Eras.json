@@ -3,7 +3,7 @@
 		"name": "Old era",
 		"researchAgreementCost": 150,
 		"startingSettlerCount": 1, // Yoinked from Alpha Frontier, so big thanks!!
-		"startingSettlerUnit": "City Module Ship",
+		"startingSettlerUnit": "Colonizer Ship",
 		"startingWorkerCount": 0,
 		"startingWorkerUnit": "Builder Ship",
 		"startingMilitaryUnitCount": 1,
