@@ -1,0 +1,8 @@
+{
+	"useColorAsBaseTerrain": "false",
+	"ruleVariants": {
+		// City center stuff
+		"Space+Asteroids+City center": ["Space","Asteroids","City center"],
+		"Space+Nebula+City center": ["Space","Nebula","City center"],
+  }
+}
