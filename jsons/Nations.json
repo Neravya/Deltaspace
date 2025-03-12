@@ -64,7 +64,7 @@
     "name": "Red Brotherhood Liberation Army",
 		"leaderName": "LeaderName",
 		"adjective": ["Adjective"],
-		"startBias": ["Tundra"],
+		"startBias": ["Asteroids"],
 		"personality": "personalityType",
 		"preferredVictoryType":"Domination",
 
@@ -81,8 +81,8 @@
 
 		"tradeRequest": ".",
 
-		"outerColor": [171, 11, 0],
-		"innerColor": [237, 176, 7],
+		"outerColor": [237, 176, 7],
+		"innerColor": [171,11,0],
 		"favoredReligion": "Word of Gonb",
 		"uniqueName": "UniqueName",
 		"uniques": [],
