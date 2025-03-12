@@ -46,9 +46,8 @@
 				"column": 2
 			},
 			{
-				"name": "Homestead Initiative",
+				"name": "Expansion Initiative",
 				"uniques": [
-					"Free [Colonizer Ship] appears",
 					"[-25]% Culture cost of natural border growth [in all cities]"
 				],
 				"requires": ["Space Drift", "Spare Supplies"],
