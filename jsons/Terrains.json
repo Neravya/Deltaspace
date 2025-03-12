@@ -19,6 +19,7 @@
   "RGB": [150,150,150]
   "occursOn": ["Space"]
   "uniques": [
+    "Rare feature",
     "Rough terrain",
     "[+10] Strength for cities built on this terrain",
     "Has an elevation of [2] for visibility calculations",
@@ -40,7 +41,7 @@
   "RGB": [200,50,200]
   "occursOn": ["Space"]
   "uniques": [
-    "Rough terrain",
+    "Rare Feature",
     "[+10] Strength for cities built on this terrain",
     "Has an elevation of [2] for visibility calculations",
     "Blocks line-of-sight from tiles at same elevation",
