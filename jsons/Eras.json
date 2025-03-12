@@ -2,12 +2,12 @@
 	{
 		"name": "Old era",
 		"researchAgreementCost": 150,
-		"startingSettlerCount": 1, // Yoinked from Alpha Frontier, so big thanks!!
+		"startingSettlerCount": 1, // Yoinked from Alpha Frontier, sooo.. BIG thanks!!
 		"startingSettlerUnit": "Colonizer Ship",
 		"startingWorkerCount": 0,
 		"startingWorkerUnit": "Builder Ship",
 		"startingMilitaryUnitCount": 1,
-		"startingMilitaryUnit": "Corvette",
+		"startingMilitaryUnit": "Corsair",
 		"settlerPopulation": 1,
 		"baseUnitBuyCost": 200,
 		"embarkDefense": 3,
