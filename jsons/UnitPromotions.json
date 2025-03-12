@@ -1,9 +1,18 @@
 [
   {
-    "name": "Scanner I" //Corvette thingies
+    "name": "Scanner I", //Corvette thingies
     "uniques": ["[+1] Sight"],
-    "unitTypes": ["Corvette"],
+    "unitTypes": ["Corvette Class"],
     "row": 7,
     "column": 1,
   },
+  {
+    "name": "Agility I",
+    "uniques": ["Ignores terrain cost",
+                "[+2] Movement",
+      "Comment [Agile enough to weave through the asteroids]"],
+    "unitTypes": ["Corvette Class"]
+    "row": 6,
+    "column": 1,
+  }
 ]
