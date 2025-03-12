@@ -9,6 +9,6 @@
   },
   {
     "name": "Frigate Class", //Standard combat ship type
-    "movemenrType": "Land"
+    "movementType": "Land"
   },
 ]
