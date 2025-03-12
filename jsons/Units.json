@@ -10,6 +10,13 @@
 	"Requires at least [2] population"],
   },
 	{
-		"name": "C",
-		"
+		"name": "Corsair",
+		"unitType" "Corvette Class",
+		"movement": 20,
+		"cost": 35,
+		"strength": 7,
+		"uniques": [],
+		"promotions": ["Agility I"],
+		"attackSound": [],
+	},
 ]
