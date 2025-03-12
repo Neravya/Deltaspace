@@ -1,0 +1,8 @@
+[
+	{
+		"name": "Scattered Data Logs",
+		"notification": "We have discovered Scattered Data Logs on the Derelicts! (+20 culture)",
+		"uniques": ["Gain [20] [Culture]"],
+		"color": "#cf8ff7",
+  }
+]
