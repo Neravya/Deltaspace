@@ -22,16 +22,16 @@
 	},
 	{
 		"columnNumber": 1,
-		"era": "Landfall era",
+		"era": "Old era",
 		"techCost": 35,
 		"buildingCost": 60,
 		"wonderCost": 180,
 		"techs": [
 			{
-				"name": "Xenobiology",
+				"name": "Nebulogy",
 				"row": 3,
-				"quote": "'Such an exciting new place, filled with amazing and exotic organisms! Well, exotic for a while, at least.' - Savitri Kumar, xenobiologist",
-				"prerequisites": ["Old Earth Knowledge"]
+				"quote": "'These Gasses are potent of life, simple chemistries able to be harvested to food, should you give the cue.' - Transmission Voice",
+				"prerequisites": ["Sector Intel"]
 			},
 			{
 				"name": "Xenogeology",
