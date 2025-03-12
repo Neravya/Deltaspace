@@ -25,7 +25,7 @@
 			},
 			{
 				"name": "Space Drift",
-				"uniques": ["[+5] Movement <for [All] units>"],
+				"uniques": ["[+1] Movement <for [All] units>"],
 				"row": 1,
 				"column": 3
 			},
