@@ -1,6 +1,6 @@
 [
 {
-		"name": "Prince",
+		"name": "Warlord",
 		"baseHappiness": 15,
 		"extraHappinessPerLuxury": 1,
 		"researchCostModifier": 0.9,
@@ -29,7 +29,7 @@
 		"clearBarbarianCampReward": 50
 	},
 	{
-		"name": "Newbie",
+		"name": "Prince",
 		"baseHappiness": 12,
 		"extraHappinessPerLuxury": 1,
 		"researchCostModifier": 0.95,
@@ -58,7 +58,7 @@
 		"clearBarbarianCampReward": 40
 	},
 	{
-		"name": "Rookie",
+		"name": "King",
 		"baseHappiness": 12,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
@@ -87,7 +87,7 @@
 		"clearBarbarianCampReward": 30
 	},
 	{
-		"name": "Intermediate",
+		"name": "Emperor",
 		"baseHappiness": 9,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
@@ -116,7 +116,7 @@
 		"clearBarbarianCampReward": 25
 	},
 	{
-		"name": "Advanced",
+		"name": "Diety",
 		"baseHappiness": 9,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
