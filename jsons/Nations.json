@@ -5,7 +5,7 @@
 		"adjective": ["Adjective"],
 		"startBias": ["Tundra"],
 		"personality": "personalityType",
-		"preferredVictoryType":"Diplomacy",
+		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": ".",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
@@ -24,7 +24,7 @@
 		"innerColor": [126, 192, 253],
 		"favoredReligion": "Word of Gonb",
 		"uniqueName": "UniqueName",
-		"uniques": ["Uniques Go Here"],
+		"uniques": ["[+1] Production <in all cities>"],
 		"cities": [
 			"Capital",
 			"City1",
