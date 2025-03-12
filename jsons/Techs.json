@@ -29,13 +29,13 @@
 		"techs": [
 			{
 				"name": "Nebulogy",
-				"row": 3,
+				"row": 1,
 				"quote": "'These Gasses are potent of life, simple chemistries able to be harvested to food, should you give the cue.' - Transmission Voice",
 				"prerequisites": ["Sector Intel"]
 			},
 			{
 				"name": "Geology",
-				"row": 5,
+				"row": 4,
 				"quote": "'Nearby Asteroids are now surface scanned and has showed promising resources for further developements.' - Transmission Voice",
 				"prerequisites": ["Sector Intel"]
 			},
