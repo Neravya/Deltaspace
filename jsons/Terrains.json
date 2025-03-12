@@ -21,6 +21,7 @@
   "uniques": [
     "Rare feature",
     "Rough terrain",
+    "Occurs in groups of [2] to [4] tiles",
     "[+10] Strength for cities built on this terrain",
     "Has an elevation of [2] for visibility calculations",
     "Blocks line-of-sight from tiles at same elevation",
@@ -34,7 +35,7 @@
 {
   "name": "Nebula",
   "type": "TerrainFeature",
-  "production": 1,
+  "science": 1,
   "movementCost": 10,
   "overrideStats": true,
   "defenceBonus": 0.3,
@@ -42,6 +43,7 @@
   "occursOn": ["Space"]
   "uniques": [
     "Rare feature",
+    "Occurs in groups of [1] to [3] tiles,
     "[+10] Strength for cities built on this terrain",
     "Has an elevation of [2] for visibility calculations",
     "Blocks line-of-sight from tiles at same elevation",
