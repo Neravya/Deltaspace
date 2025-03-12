@@ -81,8 +81,8 @@
 
 		"tradeRequest": ".",
 
-		"outerColor": [237, 176, 7],
-		"innerColor": [171,11,0],
+		"innerColor": [237, 176, 7],
+		"outerColor": [171,11,0],
 		"favoredReligion": "Word of Gonb",
 		"uniqueName": "UniqueName",
 		"uniques": [],
