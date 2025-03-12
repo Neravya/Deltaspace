@@ -4,11 +4,11 @@
     "movementType": "Land"
   },
   {
-    "name": "Corvette", //Scouts types here basically
+    "name": "Corvette Class", //Scouts types here basically
     "movementType": "Land"
   },
   {
-    "name": "Frigate", //Standard combat ship type
+    "name": "Frigate Class", //Standard combat ship type
     "movemenrType": "Land"
   },
 ]
