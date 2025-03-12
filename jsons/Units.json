@@ -11,7 +11,7 @@
   },
 	{
 		"name": "Corsair",
-		"unitType" "Corvette Class",
+		"unitType": "Corvette Class",
 		"movement": 20,
 		"cost": 35,
 		"strength": 7,
