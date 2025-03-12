@@ -1,7 +1,7 @@
 [
   {
     "name": "Colonizer",
-    "unitType": "Civilian",
+    "unitType": "Civilian Ship",
     "movement": 20,
     "cost": 26,
     "uniques":
