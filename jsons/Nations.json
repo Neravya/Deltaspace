@@ -85,7 +85,7 @@
 		"innerColor": [0, 180, 180],
 		"favoredReligion": "ReligionName",
 		"uniqueName": "UniqueName",
-		"uniques": ["Uniques Go Here"],
+		"uniques": ["[+1] Science <in all cities>"],
 		"cities": [
 			"Capital",
 			"City1",
