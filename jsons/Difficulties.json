@@ -116,7 +116,7 @@
 		"clearBarbarianCampReward": 25
 	},
 	{
-		"name": "Diety",
+		"name": "Immortal",
 		"baseHappiness": 9,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
@@ -145,7 +145,7 @@
 		"clearBarbarianCampReward": 25
 	},
 	{
-		"name": "Expert",
+		"name": "Deity",
 		"baseHappiness": 9,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
