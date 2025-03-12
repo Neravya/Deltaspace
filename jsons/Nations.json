@@ -24,7 +24,7 @@
 		"innerColor": [126, 192, 253],
 		"favoredReligion": "Word of Gonb",
 		"uniqueName": "UniqueName",
-		"uniques": ["[+1] Production <in all cities>"],
+		"uniques": [],
 		"cities": [
 			"Capital",
 			"City1",
@@ -85,7 +85,7 @@
 		"innerColor": [0, 180, 180],
 		"favoredReligion": "ReligionName",
 		"uniqueName": "UniqueName",
-		"uniques": ["[+1] Science <in all cities>"],
+		"uniques": [],
 		"cities": [
 			"Capital",
 			"City1",
