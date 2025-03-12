@@ -21,14 +21,14 @@
   "uniques": [
     "Rough terrain",
     "[+10] Strength for cities built on this terrain",
-    "Has an elevation of [2] for visbility calculations",
+    "Has an elevation of [2] for visibility calculations",
     "Blocks line-of-sight from tiles at same elevation",
     "[+1] to Fertility for Map Generation",
     "A Region can not contain more [Nebula] tiles than [Asteroids] tiles",
     "A Region is formed with at least [20]% [Asteroids] tiles, with priority [7]",
     "Considered [Desirable] when determining start locations",
     "Considered [Production] when determining start locations",
-    "Every [12] tiles with this terrain will receive a major deposit of a strategic resource"],
+    "Every [12] tiles with this terrain will receive a major deposit of a strategic resource."],
 },
 {
   "name": "Nebula",
@@ -42,13 +42,13 @@
   "uniques": [
     "Rough terrain",
     "[+10] Strength for cities built on this terrain",
-    "Has an elevation of [2] for visbility calculations",
+    "Has an elevation of [2] for visibility calculations",
     "Blocks line-of-sight from tiles at same elevation",
     "[+1] to Fertility for Map Generation",
     "A Region can not contain more [Asteroids] tiles than [Nebula] tiles",
     "A Region is formed with at least [20]% [Nebula] tiles, with priority [7]",
     "Considered [Desirable] when determining start locations",
     "Considered [Production] when determining start locations",
-    "Every [12] tiles with this terrain will receive a major deposit of a strategic resource"],
+    "Every [12] tiles with this terrain will receive a major deposit of a strategic resource."],
 },
 ]
