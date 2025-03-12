@@ -34,15 +34,15 @@
 				"prerequisites": ["Sector Intel"]
 			},
 			{
-				"name": "Xenogeology",
+				"name": "Geology",
 				"row": 5,
-				"quote": "'There's no such thing as a simple rock. This here is the foundation of everything we'll build here.' - Emmanuel Junkers, geologist",
+				"quote": "'Nearby Asteroids are now surface scanned and has showed promising resources for further developements.' - Transmission Voice",
 				"prerequisites": ["Sector Intel"]
 			},
 			{
 				"name": "Habitation",
 				"row": 7,
-				"quote": "'Sure, these prefab homes are nice, they have atmo, they have AC, they have electricity - but you know what would be cool? DOMES!' - Truong Vanth Ngo, environmental engineer",
+				"quote": "'Our researches has now adapted sufficient levels to begin constructing habitation modules.' - Transmission Voice",
 				"prerequisites": ["Sector Intel"]
 			},
 		]
