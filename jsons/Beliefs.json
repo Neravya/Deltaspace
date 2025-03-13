@@ -15,6 +15,6 @@
 	{
 		"name": "Belief III",
 		"type": "Pantheon",
-		"uniques": ["[+1 Faith] from every [Nebula] tiles [in this city]"]
+		"uniques": ["[+1 Faith] from [Nebula] tiles [in this city]"]
 	},
 ]  
