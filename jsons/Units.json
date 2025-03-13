@@ -3,13 +3,21 @@
     "name": "Colonizer",
     "unitType": "Civilian Ship",
     "movement": 1,
-    "cost": 26,
+    "cost": 36,
     "uniques":
 	["Founds a new city <by consuming this unit>",
 	"Excess Food converted to Production when under construction",
 	"Requires at least [2] population"],
   },
 	{
+    "name": "Constructor Ship",
+    "unitType": "Civilian Ship",
+    "movement": 1,
+    "uniques": [
+        "Can build [Land] improvements on tiles",
+    ],
+        },
+        {
 		"name": "Corsair",
 		"unitType": "Corvette Class",
 		"movement": 2,
