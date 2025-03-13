@@ -1,11 +1,11 @@
 [
-	{
-		"name": "Mining Operation",
-		"terrainsCanBeBuiltOn": [
+{
+	"name": "Mining Operation",
+	"terrainsCanBeBuiltOn": [
 			"Asteroids"
 		],
-		"turnsToBuild": 6,
-		"techRequired": "Geology",
-		"uniques": [],
-	}
+	"turnsToBuild": 6,
+	"techRequired": "Geology",
+	"uniques": [],
+}
 ]
