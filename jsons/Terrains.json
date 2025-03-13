@@ -30,7 +30,6 @@
     "A Region can not contain more [Nebula] tiles than [Asteroids] tiles",
     "A Region is formed with at least [20]% [Asteroids] tiles, with priority [7]",
     "Considered [Desirable] when determining start locations",
-    "Considered [Production] when determining start locations",
     "Every [12] tiles with this terrain will receive a major deposit of a strategic resource."],
 },
 {
@@ -52,8 +51,6 @@
     "A Region can not contain more [Asteroids] tiles than [Nebula] tiles",
     "A Region is formed with at least [20]% [Nebula] tiles, with priority [7]",
     "Considered [Desirable] when determining start locations",
-    "Considered [Science] when determining start locations",
-    "Considered [Gold] when determining start locations",
     "Every [12] tiles with this terrain will receive a major deposit of a strategic resource."],
 },
 ]
