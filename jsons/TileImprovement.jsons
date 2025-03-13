@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Habitation Module",
+		"terrainsCanBeBuiltOn": ["Space"],
+		"food": 2,
+		"turnsToBuild": 6,
+		"techRequired": "Habitation",
+		"uniques": [],
+ 
+ 
+ 
+  }
+]
