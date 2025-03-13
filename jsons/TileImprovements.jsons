@@ -1,10 +1,29 @@
 [
-  {
-	"name": "Habitation Module",
-	"terrainsCanBeBuiltOn": ["Space"],
-	"food": 2,
-	"turnsToBuild": 6,
-	"techRequired": "Habitation",
-	"uniques": [],
-  },
+	{
+		"name": "Habituation Hub",
+		"terrainsCanBeBuiltOn": [
+			"Space"
+		],
+		"food": 1,
+		"turnsToBuild": 6,
+		"techRequired": "Habitation",
+		"uniques": [
+			"Cannot be built on [Water] tiles",
+			"[+1 Food] from [non-fresh water] tiles <after discovering [Habitation]>",
+			"Pillaging this improvement yields approximately [+2 Food]"
+		],
+		"shortcutKey": "F",
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Mining Operation",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Basic and Reliable Habituation Hub with Self Sustaining systems"
+			}
+		]
+	},
 ]
