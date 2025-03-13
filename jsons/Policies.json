@@ -17,7 +17,7 @@
 			{
 				"name": "Rationing",
 				"uniques": [
-					"[+2 Food] [in all cities]",
+					"[+1 Food] [in all cities]",
 					"[+1 Happiness] per [10] population [in all cities]"
 				],
 				"row": 1,
