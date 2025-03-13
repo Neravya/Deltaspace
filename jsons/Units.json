@@ -2,7 +2,7 @@
   {
     "name": "Colonizer",
     "unitType": "Civilian Ship",
-    "movement": 1,
+    "movement": 2,
     "cost": 36,
     "uniques":
 	["Founds a new city <by consuming this unit>",
@@ -12,7 +12,7 @@
 	{
     "name": "Constructor Ship",
     "unitType": "Civilian Ship",
-    "movement": 1,
+    "movement": 2,
     "uniques": [
         "Can build [Land] improvements on tiles",
     ],
@@ -20,7 +20,7 @@
         {
 		"name": "Corsair",
 		"unitType": "Corvette Class",
-		"movement": 2,
+		"movement": 3,
 		"cost": 35,
 		"strength": 7,
 		"uniques": [],
