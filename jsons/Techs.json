@@ -9,7 +9,7 @@
 		"techs": [
 			{
 				"name": "Sector Intel",
-				"row": 8,
+				"row": 5,
 				"quote": "'Intels obtained from the sector, you may start issuing your research priority commands.' - Transmission Voice",
 				"uniques": ["Starting tech"],
 				"civilopediaText": [
@@ -35,13 +35,13 @@
 			},
 			{
 				"name": "Geology",
-				"row": 4,
+				"row": 5,
 				"quote": "'Nearby Asteroids are now surface scanned and has showed promising resources for further developements.' - Transmission Voice",
 				"prerequisites": ["Sector Intel"]
 			},
 			{
 				"name": "Habitation",
-				"row": 7,
+				"row": 9,
 				"quote": "'Our researches has now adapted sufficient levels to begin constructing habitation modules.' - Transmission Voice",
 				"prerequisites": ["Sector Intel"]
 			},
