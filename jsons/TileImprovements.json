@@ -19,7 +19,7 @@
 },
 	//Defense Platforms
 {
-	"name": "Defense Platform",
+	"name": "Defense Platform I",
 	"terrainsCanBeBuiltOn": [
 		"Space"
 	],
