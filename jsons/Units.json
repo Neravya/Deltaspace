@@ -20,11 +20,18 @@
         },
         {
 		"name": "Corsair",
-		"unitType": "Corvette Class",
+		"unitType": "Heavy Corvette",
 		"movement": 3,
-		"cost": 70,
+		"cost": 80,
 		"strength": 7,
 		"uniques": [],
 		"promotions": ["Agility I"],
 	},
+	{
+		"name": "Arbiter",
+		"unitType": "Heavy Frigate",
+		"movement": 2,
+		"cost": 180,
+		"strength": 13,
+		"uniques": [],
 ]
