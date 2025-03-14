@@ -3,6 +3,24 @@
     "name": "Civilian Ship", //Workers, Settlers(Colonizers), etc etc.
     "movementType": "Land"
   },
+  // Built on top of the Defense Platform
+  {
+    "name": "Defense Battery",
+    "movementType": "Land"
+  },
+  // Fighters, you can carry them around :D
+  {
+  "name": "Heavy Fighter",
+  "movementType": "Air"
+},
+{
+  "name": "Assault Fighter",
+  "movementType": "Air"
+},
+{
+  "name": "Skirmisher Fighter",
+  "movementType": "Air"
+},
   //Corvettes, specific for recon with fighting capability.
   {
     "name": "Heavy Corvette",
