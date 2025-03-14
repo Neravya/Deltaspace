@@ -23,7 +23,7 @@
 	{
 		"columnNumber": 1,
 		"era": "Era I",
-		"techCost": 35,
+		"techCost": 40,
 		"buildingCost": 60,
 		"wonderCost": 180,
 		"techs": [
@@ -46,5 +46,20 @@
 				"prerequisites": ["Sector Intel"]
 			},
 		]
-	}
+	},
+		{
+		"columnNumber": 2,
+		"era": "Era I",
+		"techCost": 60,
+		"buildingCost": 60,
+		"wonderCost": 180,
+		"techs": [
+			{
+				"name": "Defensive Perimeters I",
+				"row": 11,
+				"quote": "'Why I oughtta?!' - Head Engineer Yarkov",
+				"prerequisites": ["Habitation"]
+			},
+		]
+		}
 ]
