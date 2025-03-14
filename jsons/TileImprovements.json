@@ -20,12 +20,12 @@
 },
 	//Defense Platforms
 {
-	"name": "Defence Platform I",
+	"name": "Defense Platform I",
 	"terrainsCanBeBuiltOn": [
 		"Space"
 	],
 	"turnsToBuild": 10,
-	"techRequired": "Defence Platforms I",
+	"techRequired": "Defense Platforms I",
 	"uniques": [],
 }
 ]
