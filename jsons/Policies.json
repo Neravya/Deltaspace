@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Policy I",
-		"era": "I Era",
+		"era": "I era",
 		"priorities": {
 			"Neutral": 20,
 			"Cultural": 20,
@@ -40,7 +40,7 @@
 				"uniques": [
 					"[+1 Gold] from [Luxury resource] tiles [in all cities]"
 				],
-				"requires": ["Sub-Policy II"],
+				"requires": ["Sub-Policy IV"],
                                 "uniques": [
 					"[-5]% Culture cost of natural border growth [in all cities]"],
 				"row": 2,
