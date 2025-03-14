@@ -1,8 +1,8 @@
 [
-	// I Era
+	//First era
 	{
 		"columnNumber": 0,
-		"era": "I era",
+		"era": "First era",
 		"techCost": 20,
 		"buildingCost": 40,
 		"wonderCost": 80,
@@ -22,7 +22,7 @@
 	},
 	{
 		"columnNumber": 1,
-		"era": "I era",
+		"era": "First era",
 		"techCost": 40,
 		"buildingCost": 60,
 		"wonderCost": 180,
@@ -42,14 +42,14 @@
 			{
 				"name": "Habitation",
 				"row": 11,
-				"quote": "'Our researches has now adapted sufficient levels to begin constructing habitation modules.' - Transmission Voice",
+				"quote": "'This should make one person live, at a time.' - Head Engineer Yarkov",
 				"prerequisites": ["Sector Intel"]
 			},
 		]
 	},
 		{
 		"columnNumber": 2,
-		"era": "I era",
+		"era": "First era",
 		"techCost": 60,
 		"buildingCost": 60,
 		"wonderCost": 180,
