@@ -55,7 +55,7 @@
 		"wonderCost": 180,
 		"techs": [
 			{
-				"name": "Defence Platform I",
+				"name": "Defense Platforms I",
 				"row": 11,
 				"quote": "'Why I oughtta?!' - Head Engineer Yarkov",
 				"prerequisites": ["Habitation"]
