@@ -14,7 +14,7 @@
 				"uniques": ["Starting tech"],
 				"civilopediaText": [
 					{
-						"text": "'Intels obtained from the sector, you may start issuing your research priority commands.' - Transmission Voice"
+						"text": "'Initial scans, enabling the groundwork of future researches."
 					}
 				]
 			}
@@ -22,7 +22,7 @@
 	},
 	{
 		"columnNumber": 1,
-		"era": "Old era",
+		"era": "Era I",
 		"techCost": 35,
 		"buildingCost": 60,
 		"wonderCost": 180,
@@ -30,11 +30,11 @@
 			{
 				"name": "Nebulogy",
 				"row": 1,
-				"quote": "'These Gasses are potent of life, simple chemistries able to be harvested to food, should you give the cue.' - Transmission Voice",
+				"quote": "'These Gasses can be potent of life, simple chemistries able to be harvested to food, should you give the cue.' - Transmission Voice",
 				"prerequisites": ["Sector Intel"]
 			},
 			{
-				"name": "Geology",
+				"name": "Mineralogy",
 				"row": 6,
 				"quote": "'Nearby Asteroids are now surface scanned and has showed promising resources for further developements.' - Transmission Voice",
 				"prerequisites": ["Sector Intel"]
