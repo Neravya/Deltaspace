@@ -1,18 +1,17 @@
 [
+  //Corvette Promotions
   {
-    "name": "Scanner I", //Corvette thingies
+    "name": "Scanner I",
     "uniques": ["[+1] Sight"],
-    "unitTypes": ["Corvette Class"],
-    "row": 7,
+    "unitTypes": ["Heavy Corvette", "Assault Corvette", "Skirmisher Corvette"],
+    "row": 1,
     "column": 1,
   },
   {
     "name": "Agility I",
-    "uniques": ["Ignores terrain cost",
-                "[+2] Movement",
-      "Comment [Agile enough to weave through the asteroids]"],
-    "unitTypes": ["Corvette Class"]
-    "row": 6,
+    "uniques": ["Comment [Agile enough to weave through the asteroids unharmed]"],
+    "unitTypes": ["Heavy Corvette", "Assault Corvette", "Skirmisher Corvette"]
+    "row": 2,
     "column": 1,
   }
 ]
