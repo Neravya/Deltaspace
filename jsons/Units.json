@@ -1,4 +1,5 @@
 [
+	// Civilian Ships
   {
     "name": "Colonizer",
     "unitType": "Civilian Ship",
@@ -18,6 +19,7 @@
         "Can build [Land] improvements on tiles",
     ],
         },
+	// Corvettes
         {
 		"name": "Corsair",
 		"unitType": "Heavy Corvette",
@@ -27,6 +29,7 @@
 		"uniques": [],
 		"promotions": ["Agility I"],
 	},
+	//Frigates
 	{
 		"name": "Arbiter",
 		"unitType": "Heavy Frigate",
