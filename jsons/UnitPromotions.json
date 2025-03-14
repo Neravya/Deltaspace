@@ -8,10 +8,40 @@
     "column": 1,
   },
   {
+    "name": "Scanner II",
+    "uniques": ["[+1] Sight"],
+    "unitTypes": ["Heavy Corvette", "Assault Corvette", "Skirmisher Corvette"],
+    "row": 1,
+    "column": 2,
+  },
+  {
+    "name": "Scanner III",
+    "uniques": ["[+1] Sight"],
+    "unitTypes": ["Heavy Corvette", "Assault Corvette", "Skirmisher Corvette"],
+    "row": 1,
+    "column": 3,
+  },
+  {
     "name": "Agility I",
     "uniques": ["Comment [Agile enough to weave through the asteroids unharmed]"],
-    "unitTypes": ["Heavy Corvette", "Assault Corvette", "Skirmisher Corvette"]
+    "unitTypes": ["Heavy Corvette", "Assault Corvette", "Skirmisher Corvette"],
     "row": 2,
     "column": 1,
+  },
+  {
+    "name": "Agility II",
+    "uniques": ["Comment [Even more agile, Can dodge kinetic strikes]",
+                "[+1] Movement"], //Immunity Chance to Ranged non-laser attacks.
+    "unitTypes": ["Heavy Corvette", "Assault Corvette", "Skirmisher Corvette"],
+    "row": 2,
+    "column": 2,
+  },
+  {
+    "name": "Agility III",
+    "uniques": ["Comment [Master of agility, almost impossible to hit]",
+                "[+1] Movement"], //More Chance vs Ranged non-laser attacks.
+    "unitTypes": ["Heavy Corvette", "Assault Corvette", "Skirmisher Corvette"],
+    "row": 2,
+    "column": 3,
   }
 ]
