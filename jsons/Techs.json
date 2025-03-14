@@ -1,8 +1,8 @@
 [
-	// Old Era
+	// Era I
 	{
 		"columnNumber": 0,
-		"era": "Old era",
+		"era": "Era I",
 		"techCost": 20,
 		"buildingCost": 40,
 		"wonderCost": 80,
