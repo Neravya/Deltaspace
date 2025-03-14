@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Policy I",
-		"era": "I era",
+		"era": "First era",
 		"priorities": {
 			"Neutral": 20,
 			"Cultural": 20,
