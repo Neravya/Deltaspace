@@ -1,11 +1,30 @@
 [
+	//Tile Improvenents
 {
 	"name": "Mining Operation",
 	"terrainsCanBeBuiltOn": [
 			"Asteroids"
 		],
-	"turnsToBuild": 6,
+	"turnsToBuild": 10,
 	"techRequired": "Geology",
+	"uniques": [],
+},
+{
+        "name": "Nebula Extractor",
+	"terrainsCanBeBuiltOn": [
+		"Nebula"
+	],
+	"techRequired": "Nebulogy",
+	"uniques": [],
+},
+	//Defense Platforms
+{
+	"name": "Defense Platform",
+	"terrainsCanBeBuiltOn": [
+		"Space"
+	],
+	"turnsToBuild": 10,
+	"techRequired": "Defensive Perimeters I",
 	"uniques": [],
 }
 ]
