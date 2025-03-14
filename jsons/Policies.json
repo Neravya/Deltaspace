@@ -1,7 +1,7 @@
 [
 	{
-		"name": "Absolution",
-		"era": "Old era",
+		"name": "Policy I",
+		"era": "Era I",
 		"priorities": {
 			"Neutral": 20,
 			"Cultural": 20,
@@ -24,8 +24,8 @@
 				"column": 1
 			},
 			{
-				"name": "Space Drift",
-				"uniques": ["[+1] Movement <for [All] units>"],
+				"name": "Sub-Policy II",
+				"uniques": ["[+1 Production] [in all cities]"],
 				"row": 1,
 				"column": 3
 			},
@@ -38,10 +38,11 @@
 			{
 				"name": "Passive Scanner",
 				"uniques": [
-					"[+1] Sight <for [All] units>",
 					"[+1 Gold] from [Luxury resource] tiles [in all cities]"
 				],
-				"requires": ["Space Drift"],
+				"requires": ["Sub-Policy III"],
+                                "uniques": [
+					"[-5]% Culture cost of natural border growth [in all cities]"],
 				"row": 2,
 				"column": 2
 			},
@@ -50,12 +51,12 @@
 				"uniques": [
 					"[-25]% Culture cost of natural border growth [in all cities]"
 				],
-				"requires": ["Space Drift", "Spare Supplies"],
+				"requires": ["Sub-Policy III", "Spare Supplies"],
 				"row": 3,
 				"column": 4
 			},
 			{
-				"name": "Absolution Complete",
+				"name": "Policy I Complete",
 				"uniques": [
 					"[+15]% growth [in all cities]",
 					"Provides a [Placeholder] in your first [4] cities for free"
