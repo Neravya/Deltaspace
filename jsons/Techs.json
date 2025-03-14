@@ -55,7 +55,7 @@
 		"wonderCost": 180,
 		"techs": [
 			{
-				"name": "Defensive Perimeters I",
+				"name": "Defence Platform I",
 				"row": 11,
 				"quote": "'Why I oughtta?!' - Head Engineer Yarkov",
 				"prerequisites": ["Habitation"]
