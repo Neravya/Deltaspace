@@ -3,12 +3,30 @@
     "name": "Civilian Ship", //Workers, Settlers(Colonizers), etc etc.
     "movementType": "Land"
   },
+  //Corvettes, specific for recon with fighting capability.
   {
-    "name": "Corvette Class", //Scouts types here basically
+    "name": "Heavy Corvette",
     "movementType": "Land"
   },
   {
-    "name": "Frigate Class", //Standard combat ship type
+    "name": "Assault Corvette",
+    "movementType": "Land"
+  },
+  {
+    "name": "Skirmisher Corvette",
+    "movementType": "Land"
+  },
+  // Frigates, made for combat.
+  {
+    "name": "Heavy Frigate",
+    "movementType": "Land"
+  },
+  {
+    "name": "Assault Frigate",
+    "movementType": "Land"
+  },
+  {
+    "name": "Skirmisher Frigate",
     "movementType": "Land"
   },
 ]
