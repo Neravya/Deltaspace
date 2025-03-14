@@ -47,4 +47,8 @@
     "name": "Skirmisher Frigate",
     "movementType": "Land"
   },
+  {
+    "name": "Heavy Assault Frigate",
+    "movementType": "Land"
+  }
 ]
