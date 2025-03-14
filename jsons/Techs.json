@@ -2,7 +2,7 @@
 	// Era I
 	{
 		"columnNumber": 0,
-		"era": "Era I",
+		"era": "I Era",
 		"techCost": 20,
 		"buildingCost": 40,
 		"wonderCost": 80,
@@ -22,7 +22,7 @@
 	},
 	{
 		"columnNumber": 1,
-		"era": "Era I",
+		"era": "I Era",
 		"techCost": 40,
 		"buildingCost": 60,
 		"wonderCost": 180,
@@ -49,7 +49,7 @@
 	},
 		{
 		"columnNumber": 2,
-		"era": "Era I",
+		"era": "I Era",
 		"techCost": 60,
 		"buildingCost": 60,
 		"wonderCost": 180,
