@@ -3,7 +3,7 @@
     "name": "Colonizer",
     "unitType": "Civilian Ship",
     "movement": 2,
-    "cost": 36,
+    "cost": 150,
     "uniques":
 	["Founds a new city <by consuming this unit>",
 	"Excess Food converted to Production when under construction",
@@ -13,6 +13,7 @@
     "name": "Constructor Ship",
     "unitType": "Civilian Ship",
     "movement": 2,
+    "cost": 120
     "uniques": [
         "Can build [Land] improvements on tiles",
     ],
@@ -21,7 +22,7 @@
 		"name": "Corsair",
 		"unitType": "Corvette Class",
 		"movement": 3,
-		"cost": 35,
+		"cost": 70,
 		"strength": 7,
 		"uniques": [],
 		"promotions": ["Agility I"],
