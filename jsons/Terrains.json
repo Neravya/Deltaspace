@@ -17,6 +17,12 @@
     ]
 },
   {
+    "name": "Defense Platform I",
+    "type": "Land",
+    "movementCost": 1,
+    "RGB": [255,255,255],
+    //"uniques": [
+  {
     "name": "Nebula",
     "type": "TerrainFeature",
     "science": 1,
