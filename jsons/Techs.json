@@ -1,5 +1,5 @@
 [
-	//First era
+	//First era - Column 0
 	{
 		"columnNumber": 0,
 		"era": "First era",
@@ -9,7 +9,7 @@
 		"techs": [
 			{
 				"name": "Sector Intel",
-				"row": 6,
+				"row": 2, // CHANGED FROM 6 to 2. This is the new trunk.
 				"quote": "'Intels obtained from the sector, you may start issuing your research priority commands.' - Transmission Voice",
 				"uniques": ["Starting tech"],
 				"civilopediaText": [
@@ -20,6 +20,7 @@
 			}
 		]
 	},
+	//First era - Column 1
 	{
 		"columnNumber": 1,
 		"era": "First era",
@@ -29,25 +30,26 @@
 		"techs": [
 			{
 				"name": "Nebulogy",
-				"row": 1,
+				"row": 1, // Stays at 1. Now it's a clear TOP branch.
 				"quote": "'These Gasses can be potent of life, simple chemistries able to be harvested to food, should you give the cue.' - Transmission Voice",
 				"prerequisites": ["Sector Intel"]
 			},
 			{
 				"name": "Mineralogy",
-				"row": 6,
+				"row": 2, // CHANGED FROM 6 to 2. Now it's the direct continuation of the trunk (Sector Intel).
 				"quote": "'Nearby Asteroids are now surface scanned and has showed promising resources for further developements.' - Transmission Voice",
 				"prerequisites": ["Sector Intel"]
 			},
 			{
 				"name": "Habitation",
-				"row": 11,
+				"row": 3, // CHANGED FROM 11 to 3. Now it's a clear BOTTOM branch.
 				"quote": "'This should make one person live, at a time.' - Head Engineer Yarkov",
 				"prerequisites": ["Sector Intel"]
 			},
 		]
 	},
-		{
+	//First era - Column 2
+	{
 		"columnNumber": 2,
 		"era": "First era",
 		"techCost": 60,
@@ -56,10 +58,10 @@
 		"techs": [
 			{
 				"name": "Defense Platforms I",
-				"row": 11,
+				"row": 3, // CHANGED FROM 11 to 3. Now it logically continues the Habitation branch.
 				"quote": "'Why I oughtta?!' - Head Engineer Yarkov",
 				"prerequisites": ["Habitation"]
 			},
 		]
-		}
+	}
 ]
