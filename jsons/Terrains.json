@@ -21,7 +21,9 @@
     "type": "Land",
     "movementCost": 1,
     "RGB": [255,255,255],
-    //"uniques": [
+    "uniques": [ 
+      "Occurs in groups of [0] to [0] tiles"]
+  },
   {
     "name": "Nebula",
     "type": "TerrainFeature",
