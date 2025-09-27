@@ -10,18 +10,20 @@
   },
   {
     "name": "Defense Platform I",
-    "type": "Land",
+    "type": "Land", 
     "movementCost": 1,
     "RGB": [80, 80, 100],
     "uniques": [
-      "Never appears on map",
-      "Cannot be placed within [2] tiles of another [Defense Platform I]",
-      "Can be pillaged",
-      "Pillaging this terrain yields [+25] Gold"
-      "Pillaging this terrain transforms it into [Space]",
-      "[+10] Strength for units on this tile"
+        // FIXED: Valid unique to prevent natural generation
+        "Generated with weight [0]", // This makes it never appear naturally
+
+        // FIXED: Valid unique for defensive bonus
+        "[+10]% Strength for units on this tile",
+
+        // FIXED: Valid unique to make it pillageable (optional)
+        "Pillage rate [100]" // 100% means it can be pillaged normally
     ]
-  },
+},.
   {
     "name": "Nebula",
     "type": "TerrainFeature",
