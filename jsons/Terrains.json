@@ -8,6 +8,15 @@
       "Considered [Desirable] when determining start locations"
     ]
   },
+  // For Transform
+  {
+    "name": "Defense Platform I",
+    "type": "Land",
+    "movementCost": 1,
+    "RGB": [255,255,255],
+    "uniques": [ 
+      "Doesn't generate naturally"] // So no organics :3
+  },
   {
     "name": "Nebula",
     "type": "TerrainFeature",
@@ -19,13 +28,13 @@
     "occursOn": ["Space"],
     "uniques": [
       "Rough terrain",
-      "Occurs in groups of [3] to [6] tiles", // Reasonable group size
+      "Occurs in groups of [3] to [6] tiles",
       "[+10] Strength for cities built on this terrain",
       "Has an elevation of [2] for visibility calculations",
       "Blocks line-of-sight from tiles at same elevation",
       "[+1] to Fertility for Map Generation",
       "Considered [Desirable] when determining start locations"
-      // REMOVED: "A Region is formed..." line
+      // REMOVED the problematic regional rule
     ]
   },
   {
@@ -39,13 +48,13 @@
     "occursOn": ["Space"],
     "uniques": [
       "Rough terrain",
-      "Occurs in groups of [3] to [8] tiles", // Reasonable group size
+      "Occurs in groups of [3] to [8] tiles",
       "[+10] Strength for cities built on this terrain",
       "Has an elevation of [2] for visibility calculations",
       "Blocks line-of-sight from tiles at same elevation",
       "[+1] to Fertility for Map Generation",
-      "Considered [Desirable] when determining start locations"
-      // REMOVED: "A Region is formed..." line
+      "Considered [Desirable] for start locations"
+      // REMOVED the problematic regional rule
     ]
   }
 ]
