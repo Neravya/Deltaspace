@@ -29,12 +29,12 @@
     "uniques": [
       "Rare feature",
       "Rough terrain",
-      "Generated on every [10] tiles <in [Space] tiles>",
+      "Occurs in groups of [3] to [7] tiles", // Clumping command for Nebula clouds
       "[+10] Strength for cities built on this terrain",
       "Has an elevation of [2] for visibility calculations",
       "Blocks line-of-sight from tiles at same elevation",
       "[+1] to Fertility for Map Generation",
-      "A Region is formed with at least [20]% [Nebula] tiles, with priority [6]", // LOWER PRIORITY (6)
+      "A Region is formed with at least [20]% [Nebula] tiles, with priority [6]",
       "Considered [Desirable] when determining start locations"
     ]
   },
@@ -50,12 +50,12 @@
     "uniques": [
       "Rare feature",
       "Rough terrain",
-      "Generated on every [10] tiles <in [Space] tiles>",
+      "Occurs in groups of [4] to [12] tiles", // Clumping command for Asteroid fields (slightly larger)
       "[+10] Strength for cities built on this terrain",
       "Has an elevation of [2] for visibility calculations",
       "Blocks line-of-sight from tiles at same elevation",
       "[+1] to Fertility for Map Generation",
-      "A Region is formed with at least [20]% [Asteroids] tiles, with priority [7]", // HIGHER PRIORITY (7)
+      "A Region is formed with at least [20]% [Asteroids] tiles, with priority [7]",
       "Considered [Desirable] when determining start locations"
     ]
   }
