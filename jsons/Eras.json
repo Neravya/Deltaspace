@@ -4,9 +4,9 @@
 		"researchAgreementCost": 150,
 		"startingSettlerCount": 1, // Yoinked from Alpha Frontier, sooo.. BIG thanks!!
 		"startingSettlerUnit": "Colonizer Ship",
-		"startingWorkerCount": 0,
+		"startingWorkerCount": 1,
 		"startingWorkerUnit": "Constructor Ship",
-		"startingMilitaryUnitCount": 1,
+		"startingMilitaryUnitCount": 2,
 		"startingMilitaryUnit": "Corsair",
 		"settlerPopulation": 1,
 		"baseUnitBuyCost": 200,
