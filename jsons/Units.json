@@ -14,10 +14,10 @@
 	"name": "Constructor Ship",
 	"unitType": "Civilian Ship",
 	"movement": 2,
-	"cost": 120,
+	"cost": 400,
 	"uniques": [
 		"Can build [Land] improvements on tiles",
-		"Turn this tile into a [Defense Platform I] tile <by consuming this unit> <after discovering [Defense Platforms I]> <within [2] tiles of a NON-[Defense Platform I]>"]
+		"Turn this tile into a [Defense Platform I] tile <by consuming this unit> <after discovering [Defense Platforms I]>"]
         },
 	// Corvettes
         {
