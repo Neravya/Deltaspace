@@ -15,7 +15,7 @@
     "movementCost": 1,
     "RGB": [255,255,255],
     "uniques": [ 
-      "Doesn't generate naturally"] // So no organics :3
+  "Doesn't generate naturally"] // So no organics :3 
   },
 {
     "name": "Asteroids",
