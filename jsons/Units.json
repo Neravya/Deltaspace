@@ -10,14 +10,15 @@
 	"Excess Food converted to Production when under construction",
 	"Requires at least [2] population"],
   },
-	{
-    "name": "Constructor Ship",
-    "unitType": "Civilian Ship",
-    "movement": 2,
-    "cost": 120
-    "uniques": [
-        "Can build [Land] improvements on tiles",
-    ],
+{
+	"name": "Constructor Ship",
+	"unitType": "Civilian Ship",
+	"movement": 2,
+	"cost": 120,
+	"uniques": [
+		"Can build [Land] improvements on tiles",
+		"Can create [Defense Platform I] on [Space] tiles <by consuming this unit>"
+	]
         },
 	// Corvettes
         {
