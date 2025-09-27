@@ -53,7 +53,7 @@
       "Has an elevation of [2] for visibility calculations",
       "Blocks line-of-sight from tiles at same elevation",
       "[+1] to Fertility for Map Generation",
-      "Considered [Desirable] for start locations"
+      "Considered [Desirable] when determining start locations"
       // REMOVED the problematic regional rule
     ]
   }
