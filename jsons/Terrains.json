@@ -8,34 +8,16 @@
       "Considered [Desirable] when determining start locations"
     ]
   },
-  // For Transform
   {
     "name": "Defense Platform I",
     "type": "Land",
     "movementCost": 1,
-    "RGB": [255,255,255],
-    "uniques": [ 
-  "Doesn't generate naturally"] // So no organics :3 
-  },
-{
-    "name": "Asteroids",
-    "type": "TerrainFeature",
-    "production": 2,
-    "movementCost": 1,
-    "overrideStats": true,
-    "defenceBonus": 0.3,
-    "RGB": [150, 150, 150],
-    "occursOn": ["Space"],
+    "RGB": [255, 255, 255],
     "uniques": [
-        "Rough terrain",
-        "[+10] Strength for cities built on this terrain",
-        "Has an elevation of [2] for visibility calculations",
-        "Blocks line-of-sight from tiles at same elevation",
-        "[+1] to Fertility for Map Generation",
-        "Considered [Desirable] when determining start locations"
+      "Doesn't generate naturally"
     ]
-},
-{
+  },
+  {
     "name": "Nebula",
     "type": "TerrainFeature",
     "science": 1,
@@ -45,12 +27,36 @@
     "RGB": [200, 50, 200],
     "occursOn": ["Space"],
     "uniques": [
-        "Rough terrain",
-        "[+10] Strength for cities built on this terrain",
-        "Has an elevation of [2] for visibility calculations",
-        "Blocks line-of-sight from tiles at same elevation",
-        "[+1] to Fertility for Map Generation",
-        "Considered [Desirable] when determining start locations"
+      "Rare feature",
+      "Rough terrain",
+      "Generated on every [10] tiles <in [Space] tiles>",
+      "[+10] Strength for cities built on this terrain",
+      "Has an elevation of [2] for visibility calculations",
+      "Blocks line-of-sight from tiles at same elevation",
+      "[+1] to Fertility for Map Generation",
+      "A Region is formed with at least [20]% [Nebula] tiles, with priority [6]", // LOWER PRIORITY (6)
+      "Considered [Desirable] when determining start locations"
     ]
-}
+  },
+  {
+    "name": "Asteroids",
+    "type": "TerrainFeature",
+    "production": 2,
+    "movementCost": 1,
+    "overrideStats": true,
+    "defenceBonus": 0.3,
+    "RGB": [150, 150, 150],
+    "occursOn": ["Space"],
+    "uniques": [
+      "Rare feature",
+      "Rough terrain",
+      "Generated on every [10] tiles <in [Space] tiles>",
+      "[+10] Strength for cities built on this terrain",
+      "Has an elevation of [2] for visibility calculations",
+      "Blocks line-of-sight from tiles at same elevation",
+      "[+1] to Fertility for Map Generation",
+      "A Region is formed with at least [20]% [Asteroids] tiles, with priority [7]", // HIGHER PRIORITY (7)
+      "Considered [Desirable] when determining start locations"
+    ]
+  }
 ]
