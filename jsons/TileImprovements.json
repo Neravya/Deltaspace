@@ -1,4 +1,9 @@
-[
+[   //Unbuildabl
+		{
+		"name": "Debris",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable"]
+	},
 	//Tile Improvenents
 {
 	"name": "Mining Operation",
