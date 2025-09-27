@@ -9,14 +9,6 @@
     ]
   },
   {
-    "name": "Quantum Footprint",
-    "type": "TerrainFeature",
-    "occursOn": ["Space"],
-    "uniques": [
-        "Provides a random benefit when entered"
-    ]
-},
-  {
     "name": "Defense Platform I",
     "type": "Land",
     "movementCost": 1,
