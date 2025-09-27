@@ -23,7 +23,7 @@
         // FIXED: Valid unique to make it pillageable (optional)
         "Pillage rate [100]" // 100% means it can be pillaged normally
     ]
-},.
+},
   {
     "name": "Nebula",
     "type": "TerrainFeature",
