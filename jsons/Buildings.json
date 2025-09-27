@@ -24,7 +24,7 @@
                 "cost": 20,
 		"hurryCostModifier": 50,
 		"uniques": [
-			"Remove extra unhappiness from annexed cities",
+			"Removes extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>",
 			"Destroyed when the city is captured"
 		],
