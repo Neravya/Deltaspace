@@ -28,7 +28,6 @@
     "occursOn": ["Space"],
     "uniques": [
         "Rough terrain",
-        // REMOVED: "Occurs in groups of [3] to [8] tiles" <-- This was the problem.
         "[+10] Strength for cities built on this terrain",
         "Has an elevation of [2] for visibility calculations",
         "Blocks line-of-sight from tiles at same elevation",
@@ -47,7 +46,6 @@
     "occursOn": ["Space"],
     "uniques": [
         "Rough terrain",
-        // REMOVED: "Occurs in groups of [3] to [6] tiles" <-- This was the problem.
         "[+10] Strength for cities built on this terrain",
         "Has an elevation of [2] for visibility calculations",
         "Blocks line-of-sight from tiles at same elevation",
