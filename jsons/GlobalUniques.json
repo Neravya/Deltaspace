@@ -1,4 +1,4 @@
-[
+
 {
 	"name": "Global uniques",
 	"uniques": [
@@ -9,4 +9,4 @@
 		"[-33]% Strength <for [All] units> <when below [-10] [Happiness]>",
 		"Cannot build [Colonizer] units <when below [-10] [Happiness]>"]
 },
-]
+
