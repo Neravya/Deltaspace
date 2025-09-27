@@ -1,59 +1,66 @@
 [
-  // === BASE TERRAIN: The empty void ===
   {
     "name": "Space",
-    "type": "Land", // This is fine, it just means it's a base tile that can be moved onto.
+    "type": "Land",
     "movementCost": 1,
     "RGB": [40, 40, 40],
     "uniques": [
       "Considered [Desirable] when determining start locations"
     ]
   },
-
-  // === TERRAIN FEATURE: Dense Nebula (The "Ocean") ===
+  {
+    "name": "Defense Platform I",
+    "type": "Land",
+    "movementCost": 1,
+    "RGB": [80, 80, 100],
+    "uniques": [
+      "Never appears on map",
+      "Cannot be placed within [2] tiles of another [Defense Platform I]",
+      "Can be pillaged",
+      "Pillaging this terrain yields [+25] Gold"
+      "Pillaging this terrain transforms it into [Space]",
+      "[+10] Strength for units on this tile"
+    ]
+  },
   {
     "name": "Nebula",
     "type": "TerrainFeature",
-    "science": 1, // Good for research
-    "movementCost": 2, // INCREASED: Represents the "water drag" effect. Hard to navigate.
+    "science": 1,
+    "movementCost": 2,
     "overrideStats": true,
-    "defenceBonus": 0.3, // Good for ambushes and defensive stands
-    "RGB": [200, 50, 200], // Purple vibe
-    "occursOn": ["Space"], // COMMA ADDED
+    "defenceBonus": 0.3,
+    "RGB": [200, 50, 200],
+    "occursOn": ["Space"],
     "uniques": [
       "Rare feature",
-      "Rough terrain", // Combines with movement cost
+      "Rough terrain",
       "Occurs in groups of [2] to [5] tiles",
       "[+10] Strength for cities built on this terrain",
       "Has an elevation of [2] for visibility calculations",
-      "Blocks line-of-sight from tiles at same elevation", // Creates fog-of-war pockets
+      "Blocks line-of-sight from tiles at same elevation",
       "[+1] to Fertility for Map Generation",
-      // REMOVED the conflicting Asteroid rule. Let Nebula regions exist.
       "A Region is formed with at least [20]% [Nebula] tiles, with priority [7]",
       "Considered [Desirable] when determining start locations",
       "Every [12] tiles with this terrain will receive a major deposit of a strategic resource."
     ]
   },
-
-  // === TERRAIN FEATURE: Asteroid Field (The "Hills") ===
   {
     "name": "Asteroids",
     "type": "TerrainFeature",
-    "production": 2, // Good for building stuff
-    "movementCost": 1, // DECREASED: You can navigate around rocks easier than through dense gas.
+    "production": 2,
+    "movementCost": 1,
     "overrideStats": true,
-    "defenceBonus": 0.3, // Good for defensive positions
-    "RGB": [150, 150, 150], // Grey asteroid vibe
-    "occursOn": ["Space"], // COMMA ADDED
+    "defenceBonus": 0.3,
+    "RGB": [150, 150, 150],
+    "occursOn": ["Space"],
     "uniques": [
       "Rare feature",
       "Rough terrain",
-      "Occurs in groups of [2] to [7] tiles", // Slightly larger groups than Nebula
+      "Occurs in groups of [2] to [7] tiles",
       "[+10] Strength for cities built on this terrain",
       "Has an elevation of [2] for visibility calculations",
       "Blocks line-of-sight from tiles at same elevation",
       "[+1] to Fertility for Map Generation",
-      // REMOVED the conflicting Nebula rule. Let Asteroid regions exist.
       "A Region is formed with at least [20]% [Asteroids] tiles, with priority [7]",
       "Considered [Desirable] when determining start locations",
       "Every [12] tiles with this terrain will receive a major deposit of a strategic resource."
