@@ -17,15 +17,5 @@
 	"turnsToBuild": 10,
 	"techRequired": "Nebulogy",
 	"uniques": [],
-},
-	//Defense Platforms
-{
-	"name": "Defense Platform I",
-	"terrainsCanBeBuiltOn": [
-		"Space"
-	],
-	"turnsToBuild": 10,
-	"techRequired": "Defense Platforms I",
-	"uniques": [],
 }
 ]
