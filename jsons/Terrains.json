@@ -26,16 +26,16 @@
     "RGB": [200, 50, 200],
     "occursOn": ["Space"],
     "uniques": [
-      "Rare feature",
+      // REMOVED: "Rare feature" - This is the main fix. It's now a COMMON feature.
       "Rough terrain",
-      "Occurs in groups of [2] to [5] tiles",
+      "Occurs in groups of [4] to [10] tiles", // INCREASED GROUP SIZE (from 2-5)
       "[+10] Strength for cities built on this terrain",
       "Has an elevation of [2] for visibility calculations",
       "Blocks line-of-sight from tiles at same elevation",
-      "[+1] to Fertility for Map Generation",
-      "A Region is formed with at least [20]% [Nebula] tiles, with priority [7]",
+      "[+2] to Fertility for Map Generation", // SLIGHTLY INCREASED to make it more desirable
+      "A Region is formed with at least [30]% [Nebula] tiles, with priority [7]", // INCREASED % (from 20%)
       "Considered [Desirable] when determining start locations",
-      "Every [12] tiles with this terrain will receive a major deposit of a strategic resource."
+      "Every [8] tiles with this terrain will receive a major deposit of a strategic resource." // MORE FREQUENT RESOURCES (from 12)
     ]
   },
   {
@@ -48,16 +48,16 @@
     "RGB": [150, 150, 150],
     "occursOn": ["Space"],
     "uniques": [
-      "Rare feature",
+      // REMOVED: "Rare feature" - Now common.
       "Rough terrain",
-      "Occurs in groups of [2] to [7] tiles",
+      "Occurs in groups of [5] to [12] tiles", // INCREASED GROUP SIZE (from 2-7)
       "[+10] Strength for cities built on this terrain",
       "Has an elevation of [2] for visibility calculations",
       "Blocks line-of-sight from tiles at same elevation",
-      "[+1] to Fertility for Map Generation",
-      "A Region is formed with at least [20]% [Asteroids] tiles, with priority [7]",
+      "[+2] to Fertility for Map Generation", // SLIGHTLY INCREASED
+      "A Region is formed with at least [30]% [Asteroids] tiles, with priority [7]", // INCREASED % (from 20%)
       "Considered [Desirable] when determining start locations",
-      "Every [12] tiles with this terrain will receive a major deposit of a strategic resource."
+      "Every [8] tiles with this terrain will receive a major deposit of a strategic resource." // MORE FREQUENT RESOURCES (from 12)
     ]
   }
 ]
