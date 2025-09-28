@@ -21,6 +21,15 @@
 	],  
     "promotions": ["Construction Ship"]
   },
+	//Rig Batteries
+  {
+	"name": "x2 Vulcan Battery",
+	"unitType": "Defense Battery",
+	"movement": 2,
+	"cost": 100,
+	"strength": 10,
+	"uniques": [Cannot be built]
+  },
 	//Corvettes
   {
     "name": "Corsair",
