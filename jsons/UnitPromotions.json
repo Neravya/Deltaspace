@@ -10,16 +10,7 @@
   //x2 Vulcan
 {
 "name": "x2 Vulcan System",
-"uniques": [],
-},
-{
-"name": "x2 Salvo",
 "uniques": ["[1] additional attacks per turn"],
-},
-  //Generic CD status
-{
-"name": "Cooldown",
-"uniques": ["Cannot attack"],
 },
   //Corvies
 {
