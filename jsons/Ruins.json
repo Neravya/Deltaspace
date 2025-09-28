@@ -16,7 +16,7 @@
     // Stranded Pod (Population Focus)
     {
         "name": "Rescue Stranded Pod",
-        "notification": "We found a cryo-pod with survivors! They have joined our station. [+1 Population] in [cityName]",
+        "notification": "We found a cryo-pod with survivors! They have joined our station. Population added to [cityName]",
         "uniques": ["[+1] population in a random city"],
         "color": "#57f78a"
     },
