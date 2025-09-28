@@ -1,7 +1,7 @@
 [
   //Bonus
 {
-    "name": "Ice Asteroids",
+    "name": "Ice Presence",
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": ["Asteroids"],
     "food": 1,
@@ -11,7 +11,7 @@
 },
   //Strategic
 {
-    "name": "Ferrum",
+    "name": "Iron Presence",
     "resourceType": "Strategic",
     "revealedBy": "Mineralogy",
     "terrainsCanBeFoundOn": ["Asteroids"],
