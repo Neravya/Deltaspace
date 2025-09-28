@@ -1,8 +1,37 @@
 [
-	{
-		"name": "Scattered Data Logs",
-		"notification": "We have discovered Scattered Data Logs on the Derelicts! (+20 culture)",
-		"uniques": ["Gain [20] [Culture]"],
-		"color": "#cf8ff7",
-  }
+    // Rift Cache Discovery (Science Focus)
+    {
+        "name": "Rift Cache Decrypted",
+        "notification": "The Energy Signature conceals a stable Rift Cache! Our scientists are ecstatic. [+20 Science]",
+        "uniques": ["Gain [20] [Science]"],
+        "color": "#4dffdb"
+    },
+    // Strange Debris (Culture Focus)
+    {
+        "name": "Strange Debris Analyzed",
+        "notification": "The debris is covered in non-human symbols. Artists and philosophers are inspired. [+20 Culture]",
+        "uniques": ["Gain [20] [Culture]"],
+        "color": "#cf8ff7"
+    },
+    // Stranded Pod (Population Focus)
+    {
+        "name": "Rescue Stranded Pod",
+        "notification": "We found a cryo-pod with survivors! They have joined our station. [+1 Population] in [the capital]",
+        "uniques": ["[+1] Population [in the capital]"],
+        "color": "#57f78a"
+    },
+    // Broken-Down Ship (Unit Focus)
+    {
+        "name": "Repair Civilian Ship",
+        "notification": "We've assisted a damaged constructor vessel. Its crew has sworn allegiance. [Free Constructor Ship] appears",
+        "uniques": ["Free [Constructor Ship] appears"],
+        "color": "#f7f157"
+    },
+    // Minor Military Find (Scout Unit)
+    {
+        "name": "Salvage Corvette",
+        "notification": "The signature was a powered-down Corvette, its crew lost. We've restored it to service. [Free Corsair] appears",
+        "uniques": ["Free [Corsair] appears"],
+        "color": "#f7a657"
+    }
 ]
