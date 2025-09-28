@@ -6,7 +6,7 @@
   // Built on top of the Defense Platform
   {
     "name": "Defense Battery",
-    "movementType": "Land"
+    "movementType": "Water"
   },
   // Fighters, you can carry them around :D
   {
