@@ -15,8 +15,9 @@
     "unitType": "Civilian",
     "movement": 2,
     "cost": 200,
-    "uniques": ["Can build [Land] improvements on tiles"],
-    "promotions": ["Construction Ship"]
+    "uniques": ["Can build [Land] improvements on tiles",
+                "Can transform to [x2 Vulcan Battery] <in [x2 Vulcan Rig] tiles>"],
+    "promotions": []
   },
   {
     "name": "x2 Vulcan Battery", 
