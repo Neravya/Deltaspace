@@ -22,9 +22,10 @@
     "name": "x2 Vulcan Battery", 
     "unitType": "Defense Battery",
     "movement": 2,
-    "cost": 999, //1E+12
-    "strength": 10,
-    "uniques": ["Unbuildable"]
+    "cost": 100, //1E+12
+    "strength": 12,
+    "uniques": ["Unbuildable"],
+    "promotions": ["Immobile"]
   },
   {
     "name": "Corsair",
