@@ -9,5 +9,8 @@
 		"[-33]% Strength <for [All] units> <when below [-10] [Happiness]>",
 		"Cannot build [Colonizer] units <when below [-10] [Happiness]>"],
     "unitUniques": [
-                   "Can upgrade to [x2 Vulcan Battery] <upon building a [x2 Vulcan Rig] improvement> <for units with [Construction Ship]>"],
+		           //Constructor Ships
+                   "Can upgrade to [x2 Vulcan Battery] <upon building a [x2 Vulcan Rig] improvement> <for units with [Construction Ship]>"
+	               //Vulcan Cooldown
+	               ],
 	}
