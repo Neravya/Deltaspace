@@ -1,4 +1,4 @@
-[   //Unbuildabl
+[   //Unbuildable, this is for ruins.
 {
     "name": "Energy Signature",
     "terrainsCanBeBuiltOn": ["Land"],
@@ -7,6 +7,14 @@
         "Provides a random bonus when entered",
         "Unbuildable"
     ]
+},
+	//Turret Rigs
+{
+	"name": "x2 Vulcan Rig"
+	"terrainsCanBeBuiltOn": ["Land"],
+	"turnsToBuild": 12,
+	"techRequired": "Vulcan MKI",
+	"uniques": [],
 },
 	//Tile Improvenents
 {
