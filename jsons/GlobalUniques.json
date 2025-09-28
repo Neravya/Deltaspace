@@ -7,8 +7,5 @@
 		"Nullifies Growth [in all cities] <when below [-10] [Happiness]>",
 		"[-33]% [Production] [in all cities] <when below [-10] [Happiness]>",
 		"[-33]% Strength <for [All] units> <when below [-10] [Happiness]>",
-		"Cannot build [Colonizer] units <when below [-10] [Happiness]>"],
-    "unitUniques": [
-		           //Constructor Ships
-                   "Can transform to [x2 Vulcan Battery] <in [x2 Vulcan Rig] tiles> <for units with [Construction Ship]>"]
+		"Cannot build [Colonizer] units <when below [-10] [Happiness]>"]
 }
