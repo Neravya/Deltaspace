@@ -7,9 +7,10 @@
 		"Nullifies Growth [in all cities] <when below [-10] [Happiness]>",
 		"[-33]% [Production] [in all cities] <when below [-10] [Happiness]>",
 		"[-33]% Strength <for [All] units> <when below [-10] [Happiness]>",
-		"Cannot build [Colonizer] units <when below [-10] [Happiness]>"],
-//Funni Defense Module Goober..
-    "unitUniques": [
-        "[This Unit] gains the [Nearby Platform] status for [2] turn(s) <upon turn end> <for units with [Construction Ship]> <within [2] tiles of a [Defense Platform I]>",
-        "Turn this tile into a [Defense Platform I] tile <by consuming this unit> <after discovering [Defense Platforms I]> <for units with [Construction Ship]> <for units without [Nearby Platform]>"]
+		"Cannot build [Colonizer] units <when below [-10] [Happiness]>"]
 }
+//Funni Defense Module Goober.. 
+//        "unitUniques": [
+//        "[This Unit] gains the [Nearby Platform] status for [2] turn(s) <upon turn end> <for units with [Construction Ship]> <within [2] tiles of a [Defense Platform I]>",
+//        "Turn this tile into a [Defense Platform I] tile <by consuming this unit> <after discovering [Defense Platforms I]> <for units with [Construction Ship]> <for units without [Nearby Platform]>"]
+
