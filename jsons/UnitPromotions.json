@@ -25,14 +25,14 @@
 },
 {
 "name": "Agility I",
-"uniques": ["+[15]% Strength when defending"],
+"uniques": ["[+15]% Strength <when defending>"],
 "unitTypes": ["Corvette"],
 "row": 2,
 "column": 1
 },
 {
 "name": "Agility II",
-"uniques": ["+[15]% Strength when defending"],
+"uniques": ["[+15]% Strength <when defending>"],
 "unitTypes": ["Corvette"],
 "row": 2,
 "column": 2,
@@ -40,7 +40,7 @@
 },
 {
 "name": "Agility III",
-"uniques": ["[+[25]% Strength when defending", "[+1] Movement"],
+"uniques": ["[+25]% Strength <when defending>", "[+1] Movement"],
 "unitTypes": ["Corvette"],
 "row": 2,
 "column": 3,
@@ -49,14 +49,14 @@
   //Fridges
 {
 "name": "Reinforced Hull I",
-"uniques": ["+[15]% Strength when defending"],
+"uniques": ["[+15]% Strength <when defending>"],
 "unitTypes": ["Frigate"],
 "row": 3,
 "column": 1
 },
 {
 "name": "Reinforced Hull II",
-"uniques": ["+[15]% Strength when defending"],
+"uniques": ["[+15]% Strength <when defending>"],
 "unitTypes": ["Frigate"],
 "row": 3,
 "column": 2,
@@ -64,14 +64,14 @@
 },
 {
 "name": "Heavy Firepower I",
-"uniques": ["+[15]% Strength when attacking"],
+"uniques": ["[+15]% Strength <when attacking>"],
 "unitTypes": ["Frigate"],
 "row": 4,
 "column": 1
 },
 {
 "name": "Heavy Firepower II",
-"uniques": ["+[15]% Strength when attacking"],
+"uniques": ["[+15]% Strength <when attacking>"],
 "unitTypes": ["Frigate"],
 "row": 4,
 "column": 2,
