@@ -28,7 +28,7 @@
 	"movement": 2,
 	"cost": 100,
 	"strength": 10,
-	"uniques": [Cannot be built]
+	"uniques": ["Cannot be built"]
   },
 	//Corvettes
   {
