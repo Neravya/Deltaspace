@@ -9,11 +9,11 @@
 },
   //x2 Vulcan
 {
-"name": "x2 Vulcan Ready",
+"name": "x2 Vulcan System",
 "uniques": [],
 },
 {
-"name": "x2 Vulcan System",
+"name": "x2 Vulcan Barrage",
 "uniques": ["[1] additional attacks per turn"],
 },
   //Generic CD status
