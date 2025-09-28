@@ -6,9 +6,18 @@
     "terrainsCanBeFoundOn": ["Asteroids"],
     "food": 1,
     "improvement": "Mining Operation",
-    "improvementStats": {"food": 1},
+    "improvementStats": {"food": 2},
     "uniques": ["Generated on every [15] tiles <in [Asteroids] tiles>"]
 },
+  {
+    "name": "Hydrogenotrophic Biomass",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": ["Nebula"],
+    "food": 1,
+    "improvement": "Nebula Extractor",
+    "improvementStats": {"food": 1},
+    "uniques": ["Generated on every [12] tiles <in [Nebula] tiles>"]
+  }
   //Strategic
 {
     "name": "Iron Presence",
@@ -27,7 +36,7 @@
 },
   //Luxury
 {
-    "name": "Quantum Crystals",
+    "name": "Exotic Gas",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": ["Nebula"],
     "science": 1,
@@ -35,6 +44,18 @@
     "improvementStats": {"science": 1},
     "uniques": [
         "Generated with weight [30] <in [Nebula] Regions>",
+        "Generated near City States with weight [10]"
+    ]
+},
+  {
+    "name": "Gold Presence",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": ["Asteroids"],
+    "gold": 2, // MONEYY!!
+    "improvement": "Mining Operation",
+    "improvementStats": {"gold": 2}, // Moar Moneh?
+    "uniques": [
+        "Generated with weight [25] <in [Asteroids] Regions>",
         "Generated near City States with weight [10]"
     ]
 }
