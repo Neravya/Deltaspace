@@ -13,7 +13,7 @@
 },
 {
 "name": "Cooldown",
-"uniques": [],
+"uniques": ["Cannot attack"],
 },
   //Corvies
 {
