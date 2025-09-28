@@ -10,5 +10,5 @@
 		"Cannot build [Colonizer] units <when below [-10] [Happiness]>"],
     "unitUniques": [
 		           //Constructor Ships
-                   "Can transform to [x2 Vulcan Battery] <in a [x2 Vulcan Rig] improvement> <for units with [Construction Ship]>"]
+                   "Can transform to [x2 Vulcan Battery] <in [x2 Vulcan Rig] tiles> <for units with [Construction Ship]>"]
 }
