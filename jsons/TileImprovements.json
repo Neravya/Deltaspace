@@ -1,7 +1,7 @@
 [   //Unbuildabl
 {
     "name": "Energy Signature",
-    "terrainsCanBeBuiltOn": ["Space"], // Changed from "Land" to "Space"!
+    "terrainsCanBeBuiltOn": ["Land"],
     "uniques": [
         "Unpillagable",
         "Provides a random bonus when entered",
