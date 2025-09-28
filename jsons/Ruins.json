@@ -17,7 +17,7 @@
     {
         "name": "Rescue Stranded Pod",
         "notification": "We found a cryo-pod with survivors! They have joined our station. [+1 Population] in [the capital]",
-        "uniques": ["[+1] population [in the capital]"],
+        "uniques": ["[+1] population [in the Capital]"],
         "color": "#57f78a"
     },
     // Broken-Down Ship (Unit Focus)
