@@ -10,45 +10,17 @@
   },
   // Fighters, you can carry them around :D
   {
-  "name": "Heavy Fighter",
-  "movementType": "Air"
-},
-{
-  "name": "Assault Fighter",
-  "movementType": "Air"
-},
-{
-  "name": "Skirmisher Fighter",
+  "name": "Fighter",
   "movementType": "Air"
 },
   //Corvettes, specific for recon with fighting capability.
   {
-    "name": "Heavy Corvette",
+    "name": "Corvette",
     "movementType": "Land"
   },
+  // Frigates, made for general combat.
   {
-    "name": "Assault Corvette",
-    "movementType": "Land"
-  },
-  {
-    "name": "Skirmisher Corvette",
-    "movementType": "Land"
-  },
-  // Frigates, made for combat.
-  {
-    "name": "Heavy Frigate",
-    "movementType": "Land"
-  },
-  {
-    "name": "Assault Frigate",
-    "movementType": "Land"
-  },
-  {
-    "name": "Skirmisher Frigate",
-    "movementType": "Land"
-  },
-  {
-    "name": "Heavy Assault Frigate",
+    "name": "Frigate",
     "movementType": "Land"
   }
 ]
