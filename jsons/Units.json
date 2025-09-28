@@ -17,8 +17,9 @@
     "movement": 2,
     "cost": 80,
     "uniques": [
-      "Can build [Land] improvements on tiles",
-      "Turn this tile into a [Defense Platform I] tile <by consuming this unit> <after discovering [Defense Platforms I]>"]
+      "Can build [Land] improvements on tiles"
+	],  
+    "promotions": ["Construction Ship"]
   },
 	//Corvettes
   {
