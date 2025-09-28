@@ -1,6 +1,6 @@
 [
   {
-    "name": "Civilian Ship", //Workers, Settlers(Colonizers), etc etc.
+    "name": "Civilian", //Workers, Settlers(Colonizers), etc etc.
     "movementType": "Land"
   },
   // Built on top of the Defense Platform
