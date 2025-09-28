@@ -49,13 +49,13 @@
     "wonderCost": 180,
     "techs": [
         {
-            "name": "Thermal Armaments", 
+            "name": "Thermal Armaments I", 
             "row": 1,
             "quote": "Placeholder",
             "prerequisites": ["Nebulogy"]
         },
         {
-            "name": "Kinetic Armaments",
+            "name": "Kinetic Armaments I",
             "row": 3,
             "quote": "Placeholder",
             "prerequisites": ["Mineralogy"]
