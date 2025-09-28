@@ -1,41 +1,43 @@
 [
-	// Civilian Ships
+	//Civilian Ships
   {
     "name": "Colonizer",
-    "unitType": "Civilian Ship",
+    "unitType": "Civilian",
     "movement": 2,
     "cost": 150,
-    "uniques":
-	["Founds a new city <by consuming this unit>",
-	"Excess Food converted to Production when under construction",
-	"Requires at least [2] population"],
+    "uniques": [
+      "Founds a new city <by consuming this unit>",
+      "Excess Food converted to Production when under construction",
+      "Requires at least [2] population]"
+    ]
   },
-{
-	"name": "Constructor Ship",
-	"unitType": "Civilian Ship",
-	"movement": 2,
-	"cost": 400,
-	"uniques": [
-		"Can build [Land] improvements on tiles",
-		"Turn this tile into a [Defense Platform I] tile <by consuming this unit> <after discovering [Defense Platforms I]>"]
-        },
-	// Corvettes
-        {
-		"name": "Corsair",
-		"unitType": "Heavy Corvette",
-		"movement": 3,
-		"cost": 80,
-		"strength": 7,
-		"uniques": [],
-		"promotions": ["Agility I"],
-	},
+  {
+    "name": "Constructor Ship",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 80,
+    "uniques": [
+      "Can build [Land] improvements on tiles",
+      "Turn this tile into a [Defense Platform I] tile <by consuming this unit> <after discovering [Defense Platforms I]>"
+    ]
+  },
+	//Corvettes
+  {
+    "name": "Corsair",
+    "unitType": "Corvette",
+    "movement": 2,
+    "cost": 60,
+    "strength": 8,
+    "uniques": ["Ignores terrain cost"],
+    "promotions": ["Agility I"]
+  },
 	//Frigates
-	{
-		"name": "Arbiter",
-		"unitType": "Heavy Frigate",
-		"movement": 2,
-		"cost": 180,
-		"strength": 13,
-		"uniques": [],
-	}
+  {
+    "name": "Arbiter",
+    "unitType": "Frigate",
+    "movement": 2,
+    "cost": 120,
+    "strength": 14,
+    "uniques": []
+  }
 ]
