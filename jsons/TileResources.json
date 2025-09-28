@@ -17,7 +17,7 @@
     "improvement": "Nebula Extractor",
     "improvementStats": {"food": 1},
     "uniques": ["Generated on every [12] tiles <in [Nebula] tiles>"]
-  }
+  },
   //Strategic
 {
     "name": "Iron Presence",
@@ -40,8 +40,9 @@
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": ["Nebula"],
     "science": 1,
+    "gold": 1,
     "improvement": "Nebula Extractor",
-    "improvementStats": {"science": 1},
+    "improvementStats": {"science": 1, "gold": 1},
     "uniques": [
         "Generated with weight [30] <in [Nebula] Regions>",
         "Generated near City States with weight [10]"
@@ -51,9 +52,9 @@
     "name": "Gold Presence",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": ["Asteroids"],
-    "gold": 2, // MONEYY!!
+    "gold": 2,
     "improvement": "Mining Operation",
-    "improvementStats": {"gold": 2}, // Moar Moneh?
+    "improvementStats": {"gold": 2},
     "uniques": [
         "Generated with weight [25] <in [Asteroids] Regions>",
         "Generated near City States with weight [10]"
