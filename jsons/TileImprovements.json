@@ -13,7 +13,7 @@
 	"name": "x2 Vulcan Rig"
 	"terrainsCanBeBuiltOn": ["Land"],
 	"turnsToBuild": 12,
-	"techRequired": "Vulcan MKI",
+	"techRequired": "Kinetic Armaments I",
 	"uniques": [],
 },
 	//Tile Improvenents
