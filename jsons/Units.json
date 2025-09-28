@@ -18,7 +18,7 @@
     "cost": 80,
     "uniques": [
       "Can build [Land] improvements on tiles",
-      "Turn this tile into a [Defense Platform I] tile <by consuming this unit> <after discovering [Defense Platforms I]> <within [2] tiles of a [non-[Defense Platform I]] tile>"
+      "Turn this tile into a [Defense Platform I] tile <by consuming this unit> <after discovering [Defense Platforms I]> <within [2] tiles of a [non-[Defense Platform I]]>"
     ]
   },
 	//Corvettes
