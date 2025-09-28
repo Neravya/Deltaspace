@@ -10,7 +10,8 @@
 		"Cannot build [Colonizer] units <when below [-10] [Happiness]>"],
     "unitUniques": [
 		           //Constructor Ships
-                   "Can upgrade to [x2 Vulcan Battery] <upon building a [x2 Vulcan Rig] improvement> <for units with [Construction Ship]>"
+                   "Can upgrade to [x2 Vulcan Battery] <upon building a [x2 Vulcan Rig] improvement> <for units with [Construction Ship]>",
 	               //Vulcan Cooldown
-	               "[This Unit] gains the [x2 Salvo] status for [1] turn(s) <upon damaging a],
+	               "[This Unit] gains the [x2 Salvo] status for [1] turn(s) <upon damaging a [All] unit> <for units with [x2 Vulcan System]>",
+	               "[This Unit] gains the [Cooldown] status for [1] turn(s) <upon losing ],
 	}
