@@ -13,5 +13,5 @@
                    "Can upgrade to [x2 Vulcan Battery] <upon building a [x2 Vulcan Rig] improvement> <for units with [Construction Ship]>",
 	               //Vulcan Cooldown
 	               "[This Unit] gains the [x2 Salvo] status for [1] turn(s) <upon damaging a [All] unit> <for units with [x2 Vulcan System]>",
-	               "[This Unit] gains the [Cooldown] status for [1] turn(s) <upon losing ],
+	               "[This Unit] gains the [Cooldown] status for [1] turn(s) <upon losing the [x2 Salvo] status> <upon turn start> <for units with [x2 Vulcan System]>"],
 	}
