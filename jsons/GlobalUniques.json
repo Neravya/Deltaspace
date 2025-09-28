@@ -8,7 +8,7 @@
 		"[-33]% [Production] [in all cities] <when below [-10] [Happiness]>",
 		"[-33]% Strength <for [All] units> <when below [-10] [Happiness]>",
 		"Cannot build [Colonizer] units <when below [-10] [Happiness]>"]
-},
+}
 //Funni Defense Module Goober..
 {
   "unitUniques": [
