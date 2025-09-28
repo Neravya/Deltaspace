@@ -11,7 +11,7 @@
 },
   //Strategic
 {
-    "name": "Iron",
+    "name": "Ferrum",
     "resourceType": "Strategic",
     "revealedBy": "Mineralogy",
     "terrainsCanBeFoundOn": ["Asteroids"],
