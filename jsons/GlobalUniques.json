@@ -8,4 +8,6 @@
 		"[-33]% [Production] [in all cities] <when below [-10] [Happiness]>",
 		"[-33]% Strength <for [All] units> <when below [-10] [Happiness]>",
 		"Cannot build [Colonizer] units <when below [-10] [Happiness]>"],
-	"unitUniques":
+    "unitUniques": [
+                   "[This Unit] can upgrade to [x2 Vulcan Battery] <upon building a [x2 Vulcan Rig] improvement> <for units with [Construction Ship]>"],
+	}
