@@ -12,5 +12,6 @@
 //Funni Defense Module Goober..
 {
   "unitUniques": [
-                   "[This Unit] gains the [Nearby Platform] status for [1] turn(s) <upon turn start> <for units with [Construction Ship]> <within [2] tiles of a [Defense Platform I]>"],
+                   "[This Unit] gains the [Nearby Platform] status for [1] turn(s) <upon turn start> <for units with [Construction Ship]> <within [2] tiles of a [Defense Platform I]>",
+                   "Turn this tile into a [Defense Platform I] tile <by consuming this unit> <after discovering [Defense Platforms I]> <for units with [Construction Ship]> <for units without [Nearby Platform]>"]
 }
