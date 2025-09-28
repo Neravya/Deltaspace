@@ -10,5 +10,5 @@
 		"Cannot build [Colonizer] units <when below [-10] [Happiness]>"],
     "unitUniques": [
 		           //Constructor Ships
-                   "Can upgrade to [x2 Vulcan Battery] <upon ending a turn in a [x2 Vulcan Rig] tile> <for units with [Construction Ship]>",
+                   "Can upgrade to [x2 Vulcan Battery] <upon ending a turn in a [x2 Vulcan Rig] tile> <for units with [Construction Ship]>"]
 }
