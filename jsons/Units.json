@@ -25,6 +25,7 @@
     "movement": 2,
     "cost": 100, //1E+12
     "rangedStrength": 5,
+    "range": 2,
     "strength": 12,
     "uniques": ["Unbuildable"],
     "promotions": ["Immobile", "x2 Vulcan System"]
