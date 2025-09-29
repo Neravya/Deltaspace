@@ -62,13 +62,13 @@
         },
         {
             "name": "Thermal Armaments I", 
-            "row": 1,
+            "row": 8,
             "quote": "Placeholder",
             "prerequisites": ["Mobilization"]
         },
         {
             "name": "Kinetic Armaments I",
-            "row": 7, 
+            "row": 9, 
             "quote": "Placeholder",
             "prerequisites": ["Mobilization"]
         }
@@ -122,13 +122,13 @@
         },
         {
             "name": "Thermal Armaments II",
-            "row": 1,
+            "row": 8,
             "quote": "Placeholder", 
             "prerequisites": ["Corvette Shipyard Tech"]
         },
         {
             "name": "Kinetic Armaments II",
-            "row": 7,
+            "row": 9,
             "quote": "Placeholder",
             "prerequisites": ["Corvette Shipyard Tech"]
         },
