@@ -12,6 +12,10 @@
 "name": "x2 Vulcan System",
 "uniques": ["[1] additional attacks per turn"],
 },
+{
+"name": "x4 PCL System",
+"uniques": [],
+},
   //Corvies
 {
 "name": "Scanner I",
