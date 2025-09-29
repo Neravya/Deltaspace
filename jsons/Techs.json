@@ -12,9 +12,9 @@
         "uniques": ["Starting tech"]
     }]
 },
-//Column 1 - OLD ERA
+//Column 2 - OLD ERA
 {
-    "columnNumber": 1,
+    "columnNumber": 2,
     "era": "Old Era", 
     "techCost": 80,
     "buildingCost": 120,
@@ -46,9 +46,9 @@
         }
     ]
 },
-//Column 2 - OLD ERA  
+//Column 4 - OLD ERA  
 {
-    "columnNumber": 2,
+    "columnNumber": 4,
     "era": "Old Era",
     "techCost": 120,
     "buildingCost": 120,
@@ -74,9 +74,9 @@
         }
     ]
 },
-//Column 3 - OLD ERA (Military Focus)
+//Column 6 - OLD ERA (Military Focus)
 {
-    "columnNumber": 3,
+    "columnNumber": 6,
     "era": "Old Era",
     "techCost": 160,
     "buildingCost": 180,
@@ -96,9 +96,9 @@
         }
     ]
 },
-//Column 4 - BREAKTHROUGH ERA (Tier IIs)
+//Column 8 - BREAKTHROUGH ERA (Tier IIs)
 {
-    "columnNumber": 4,
+    "columnNumber": 8,
     "era": "Breakthrough Era", 
     "techCost": 200,
     "buildingCost": 240,
@@ -130,9 +130,9 @@
         }
     ]
 },
-//Column 5 - BREAKTHROUGH ERA (Advanced Military)
+//Column 10 - BREAKTHROUGH ERA (Advanced Military)
 {
-    "columnNumber": 5,
+    "columnNumber": 10,
     "era": "Breakthrough Era",
     "techCost": 280,
     "buildingCost": 320,
