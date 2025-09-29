@@ -16,6 +16,13 @@
 	"techRequired": "Kinetic Armaments I",
 	"uniques": [],
 },
+{
+	"name": "x4 PCL Rig"
+	"terrainsCanBeBuiltOn": ["Land"],
+	"turndToBuild": 12,
+	"techrequired": "Thermal Armaments I",
+	"uniques": [],
+},
 	//Tile Improvenents
 {
 	"name": "Mining Operation",
