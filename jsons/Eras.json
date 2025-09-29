@@ -1,8 +1,8 @@
 [
 	{
-		"name": "First era",
+		"name": "Old Era",
 		"researchAgreementCost": 150,
-		"startingSettlerCount": 1, // Yoinked from Alpha Frontier, sooo.. BIG thanks!!
+		"startingSettlerCount": 1,
 		"startingSettlerUnit": "Colonizer Ship",
 		"startingWorkerCount": 1,
 		"startingWorkerUnit": "Constructor Ship",
@@ -14,5 +14,18 @@
 		"startPercent": 0,
 		"citySound": "placeholder",
 		"iconRGB": [255, 87, 35]
-  }
+	},
+	{
+		"name": "Breakthrough Era",
+		"researchAgreementCost": 300,
+		"startingSettlerCount": 0,
+		"startingWorkerCount": 0,
+		"startingMilitaryUnitCount": 0,
+		"settlerPopulation": 1,
+		"baseUnitBuyCost": 250,
+		"embarkDefense": 5,
+		"startPercent": 0,
+		"citySound": "placeholder",
+		"iconRGB": [35, 87, 255]
+	}
 ]
