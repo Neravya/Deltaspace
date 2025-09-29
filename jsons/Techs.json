@@ -1,10 +1,10 @@
 [
 {
     "columnNumber": 0,
-    "era": "First era",
-    "techCost": 20,
-    "buildingCost": 40,
-    "wonderCost": 80,
+    "era": "Old Era",
+    "techCost": 40,
+    "buildingCost": 80, 
+    "wonderCost": 160,
     "techs": [{
         "name": "Sector Intel",
         "row": 2,
@@ -12,53 +12,143 @@
         "uniques": ["Starting tech"]
     }]
 },
-//Column 1
+//Column 1 - OLD ERA
 {
     "columnNumber": 1,
-    "era": "First era", 
-    "techCost": 40,
-    "buildingCost": 60,
-    "wonderCost": 180,
+    "era": "Old Era", 
+    "techCost": 80,
+    "buildingCost": 120,
+    "wonderCost": 360,
     "techs": [
         {
-            "name": "Nebulogy",
+            "name": "Nebulogy I",
             "row": 1,
             "quote": "'These Gasses can be potent of life, simple chemistries able to be harvested to food, should you give the cue.' - Transmission Voice",
             "prerequisites": ["Sector Intel"]
         },
         {
             "name": "Habitation",
-            "row": 2,
+            "row": 2, 
             "quote": "'This should make one person live, at a time.' - Head Engineer Yarkov",
             "prerequisites": ["Sector Intel"]
         },
         {
-            "name": "Mineralogy", 
+            "name": "Mineralogy I", 
             "row": 3,
-            "quote": "'Nearby Asteroids are now surface scanned and has showed promising resources for further developements.' - Transmission Voice",
+            "quote": "'Nearby Asteroids are now surface scanned and has showed promising resources for further developements.' - Transmission Voice", 
+            "prerequisites": ["Sector Intel"]
+        },
+        {
+            "name": "Mobilization",
+            "row": 0,
+            "quote": "Placeholder",
             "prerequisites": ["Sector Intel"]
         }
     ]
 },
-//Column 2
+//Column 2 - OLD ERA  
 {
     "columnNumber": 2,
-    "era": "First era",
-    "techCost": 60, 
-    "buildingCost": 60,
-    "wonderCost": 180,
+    "era": "Old Era",
+    "techCost": 120,
+    "buildingCost": 120,
+    "wonderCost": 360,
     "techs": [
+        {
+            "name": "Industrialization",
+            "row": 2,
+            "quote": "Placeholder",
+            "prerequisites": ["Habitation"]
+        },
         {
             "name": "Thermal Armaments I", 
             "row": 1,
             "quote": "Placeholder",
-            "prerequisites": ["Nebulogy"]
+            "prerequisites": ["Mobilization"]
         },
         {
             "name": "Kinetic Armaments I",
+            "row": 3, 
+            "quote": "Placeholder",
+            "prerequisites": ["Mobilization"]
+        }
+    ]
+},
+//Column 3 - OLD ERA (Military Focus)
+{
+    "columnNumber": 3,
+    "era": "Old Era",
+    "techCost": 160,
+    "buildingCost": 180,
+    "wonderCost": 480,
+    "techs": [
+        {
+            "name": "Corvette Shipyard Tech", 
+            "row": 2,
+            "quote": "Placeholder", 
+            "prerequisites": ["Thermal Armaments I", "Kinetic Armaments I"]
+        },
+        {
+            "name": "Fighter Tech I",
+            "row": 0,
+            "quote": "Placeholder",
+            "prerequisites": ["Corvette Shipyard Tech"]
+        }
+    ]
+},
+//Column 4 - BREAKTHROUGH ERA (Tier IIs)
+{
+    "columnNumber": 4,
+    "era": "Breakthrough Era", 
+    "techCost": 200,
+    "buildingCost": 240,
+    "wonderCost": 600,
+    "techs": [
+        {
+            "name": "Nebulogy II",
+            "row": 1,
+            "quote": "Placeholder",
+            "prerequisites": ["Nebulogy I", "Industrialization"]
+        },
+        {
+            "name": "Mineralogy II",
+            "row": 3,
+            "quote": "Placeholder", 
+            "prerequisites": ["Mineralogy I", "Industrialization"]
+        },
+        {
+            "name": "Thermal Armaments II",
+            "row": 1,
+            "quote": "Placeholder", 
+            "prerequisites": ["Thermal Armaments I", "Corvette Shipyard Tech"]
+        },
+        {
+            "name": "Kinetic Armaments II",
             "row": 3,
             "quote": "Placeholder",
-            "prerequisites": ["Mineralogy"]
+            "prerequisites": ["Kinetic Armaments I", "Corvette Shipyard Tech"]
+        }
+    ]
+},
+//Column 5 - BREAKTHROUGH ERA (Advanced Military)
+{
+    "columnNumber": 5,
+    "era": "Breakthrough Era",
+    "techCost": 280,
+    "buildingCost": 320,
+    "wonderCost": 800,  
+    "techs": [
+        {
+            "name": "Frigate Shipyard Tech",
+            "row": 2, 
+            "quote": "Placeholder",
+            "prerequisites": ["Thermal Armaments II", "Kinetic Armaments II"]
+        },
+        {
+            "name": "Fighter Tech II",
+            "row": 0,
+            "quote": "Placeholder",
+            "prerequisites": ["Fighter Tech I", "Frigate Shipyard Tech"]
         }
     ]
 }
