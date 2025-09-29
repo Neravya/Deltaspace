@@ -12,6 +12,7 @@
   {
     "name": "Hydrogenotrophic Biomass",
     "resourceType": "Bonus",
+    "revealedBy": "Nebulogy I",
     "terrainsCanBeFoundOn": ["Nebula"],
     "food": 1,
     "improvement": "Nebula Extractor",
@@ -22,7 +23,7 @@
 {
     "name": "Iron Presence",
     "resourceType": "Strategic",
-    "revealedBy": "Mineralogy",
+    "revealedBy": "Mineralogy I",
     "terrainsCanBeFoundOn": ["Asteroids"],
     "production": 1,
     "improvement": "Mining Operation",
@@ -38,6 +39,7 @@
 {
     "name": "Exotic Gas",
     "resourceType": "Luxury",
+    "revealedBy": "Nebulogy II",
     "terrainsCanBeFoundOn": ["Nebula"],
     "science": 1,
     "gold": 1,
@@ -51,6 +53,7 @@
   {
     "name": "Gold Presence",
     "resourceType": "Luxury",
+    "revealedBy": "Mineralogy II",
     "terrainsCanBeFoundOn": ["Asteroids"],
     "gold": 2,
     "improvement": "Mining Operation",
