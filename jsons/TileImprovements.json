@@ -30,7 +30,7 @@
 			"Asteroids"
 		],
 	"turnsToBuild": 10,
-	"techRequired": "Mineralogy",
+	"techRequired": "Mineralogy I",
 	"uniques": [],
 },
 {
@@ -39,7 +39,7 @@
 		"Nebula"
 	],
 	"turnsToBuild": 10,
-	"techRequired": "Nebulogy",
+	"techRequired": "Nebulogy I",
 	"uniques": [],
 }
 ]
