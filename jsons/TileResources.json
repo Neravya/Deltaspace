@@ -44,8 +44,8 @@
     "improvement": "Nebula Extractor",
     "improvementStats": {"science": 1, "gold": 1},
     "uniques": [
-        "Generated with weight [30] <in [Nebula] Regions>",
-        "Generated near City States with weight [10]"
+        "Generated with weight [4] <in [Nebula] Regions>",
+        "Generated near City States with weight [20]"
     ]
 },
   {
@@ -56,8 +56,8 @@
     "improvement": "Mining Operation",
     "improvementStats": {"gold": 2},
     "uniques": [
-        "Generated with weight [25] <in [Asteroids] Regions>",
-        "Generated near City States with weight [10]"
+        "Generated with weight [45] <in [Asteroids] Regions>",
+        "Generated near City States with weight [25]"
     ]
 }
 ]
