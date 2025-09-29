@@ -3,7 +3,7 @@
 	{
 		"name": "Belief I",
 		"type": "Pantheon",
-		"uniques": ["[+1 Culture, +1 Faith] from every [Placeholder]"]
+		"uniques": ["[+1 Culture, +1 Faith] from every [Frontier Module]"]
 	},
 	{
 		"name": "Belief II",
