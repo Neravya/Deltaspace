@@ -16,7 +16,9 @@
     "movement": 2,
     "cost": 200,
     "uniques": ["Can build [Land] improvements on tiles",
-                "Can transform to [x2 Vulcan Battery] <in [x2 Vulcan Rig] tiles>"],
+                "Can transform to [x2 Vulcan Battery] <in [x2 Vulcan Rig] tiles>",
+                "Can transform to [x4 PCL Battery] <in [x4 PCL Rig] tiles>"],
+
     "promotions": []
   },
   {
@@ -29,6 +31,17 @@
     "strength": 12,
     "uniques": ["Unbuildable"],
     "promotions": ["Immobile", "x2 Vulcan System"]
+  },
+  {
+    "name": "x4 PCL Battery", 
+    "unitType": "Defense Battery",
+    "movement": 1,
+    "cost": 100, //1E+12
+    "rangedStrength": 12,
+    "range": 1,
+    "strength": 8,
+    "uniques": ["Unbuildable"],
+    "promotions": ["Immobile", "x4 PCL System"]
   },
   {
     "name": "Corsair",
