@@ -40,7 +40,7 @@
         },
         {
             "name": "Mobilization",
-            "row": 0,
+            "row": 4,
             "quote": "Placeholder",
             "prerequisites": ["Sector Intel"]
         }
@@ -90,7 +90,7 @@
         },
         {
             "name": "Fighter Tech I",
-            "row": 0,
+            "row": 4,
             "quote": "Placeholder",
             "prerequisites": ["Corvette Shipyard Tech"]
         }
@@ -111,22 +111,22 @@
             "prerequisites": ["Nebulogy I", "Industrialization"]
         },
         {
-            "name": "Mineralogy II",
-            "row": 3,
-            "quote": "Placeholder", 
-            "prerequisites": ["Mineralogy I", "Industrialization"]
-        },
-        {
             "name": "Thermal Armaments II",
-            "row": 1,
+            "row": 2,
             "quote": "Placeholder", 
-            "prerequisites": ["Thermal Armaments I", "Corvette Shipyard Tech"]
+            "prerequisites": ["Corvette Shipyard Tech"]
         },
         {
             "name": "Kinetic Armaments II",
             "row": 3,
             "quote": "Placeholder",
-            "prerequisites": ["Kinetic Armaments I", "Corvette Shipyard Tech"]
+            "prerequisites": ["Corvette Shipyard Tech"]
+        },
+        {
+            "name": "Mineralogy II",
+            "row": 4,
+            "quote": "Placeholder", 
+            "prerequisites": ["Mineralogy I", "Industrialization"]
         }
     ]
 },
@@ -146,7 +146,7 @@
         },
         {
             "name": "Fighter Tech II",
-            "row": 0,
+            "row": 4,
             "quote": "Placeholder",
             "prerequisites": ["Fighter Tech I", "Frigate Shipyard Tech"]
         }
