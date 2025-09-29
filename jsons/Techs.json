@@ -7,7 +7,7 @@
     "wonderCost": 160,
     "techs": [{
         "name": "Sector Intel",
-        "row": 2,
+        "row": 4,
         "quote": "'Intels obtained from the sector, you may start issuing your research priority commands.' - Transmission Voice",
         "uniques": ["Starting tech"]
     }]
@@ -22,25 +22,25 @@
     "techs": [
         {
             "name": "Nebulogy I",
-            "row": 1,
+            "row": 2,
             "quote": "'These Gasses can be potent of life, simple chemistries able to be harvested to food, should you give the cue.' - Transmission Voice",
             "prerequisites": ["Sector Intel"]
         },
         {
             "name": "Habitation",
-            "row": 2, 
+            "row": 4, 
             "quote": "'This should make one person live, at a time.' - Head Engineer Yarkov",
             "prerequisites": ["Sector Intel"]
         },
         {
             "name": "Mineralogy I", 
-            "row": 3,
+            "row": 6,
             "quote": "'Nearby Asteroids are now surface scanned and has showed promising resources for further developements.' - Transmission Voice", 
             "prerequisites": ["Sector Intel"]
         },
         {
             "name": "Mobilization",
-            "row": 4,
+            "row": 8,
             "quote": "Placeholder",
             "prerequisites": ["Sector Intel"]
         }
@@ -56,19 +56,19 @@
     "techs": [
         {
             "name": "Industrialization",
-            "row": 2,
+            "row": 4,
             "quote": "Placeholder",
             "prerequisites": ["Habitation"]
         },
         {
             "name": "Thermal Armaments I", 
-            "row": 1,
+            "row": 2,
             "quote": "Placeholder",
             "prerequisites": ["Mobilization"]
         },
         {
             "name": "Kinetic Armaments I",
-            "row": 3, 
+            "row": 6, 
             "quote": "Placeholder",
             "prerequisites": ["Mobilization"]
         }
@@ -84,13 +84,13 @@
     "techs": [
         {
             "name": "Corvette Shipyard Tech", 
-            "row": 2,
+            "row": 4,
             "quote": "Placeholder", 
             "prerequisites": ["Thermal Armaments I", "Kinetic Armaments I"]
         },
         {
             "name": "Fighter Tech I",
-            "row": 4,
+            "row": 8,
             "quote": "Placeholder",
             "prerequisites": ["Corvette Shipyard Tech"]
         }
@@ -106,25 +106,25 @@
     "techs": [
         {
             "name": "Nebulogy II",
-            "row": 1,
+            "row": 2,
             "quote": "Placeholder",
             "prerequisites": ["Nebulogy I", "Industrialization"]
         },
         {
             "name": "Thermal Armaments II",
-            "row": 2,
+            "row": 4,
             "quote": "Placeholder", 
             "prerequisites": ["Corvette Shipyard Tech"]
         },
         {
             "name": "Kinetic Armaments II",
-            "row": 3,
+            "row": 6,
             "quote": "Placeholder",
             "prerequisites": ["Corvette Shipyard Tech"]
         },
         {
             "name": "Mineralogy II",
-            "row": 4,
+            "row": 8,
             "quote": "Placeholder", 
             "prerequisites": ["Mineralogy I", "Industrialization"]
         }
@@ -140,13 +140,13 @@
     "techs": [
         {
             "name": "Frigate Shipyard Tech",
-            "row": 2, 
+            "row": 4, 
             "quote": "Placeholder",
             "prerequisites": ["Thermal Armaments II", "Kinetic Armaments II"]
         },
         {
             "name": "Fighter Tech II",
-            "row": 4,
+            "row": 8,
             "quote": "Placeholder",
             "prerequisites": ["Fighter Tech I", "Frigate Shipyard Tech"]
         }
