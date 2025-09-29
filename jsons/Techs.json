@@ -100,7 +100,7 @@
     "techs": [
         {
             "name": "Fighter Tech I",
-            "row": 4,
+            "row": 3,  // MOVED UP to avoid row traffic
             "quote": "Placeholder",
             "prerequisites": ["Corvette Shipyard Tech"]
         }
@@ -166,7 +166,7 @@
     "techs": [
         {
             "name": "Fighter Tech II",
-            "row": 4,
+            "row": 5,  // MOVED to different row from Frigate Shipyard
             "quote": "Placeholder",
             "prerequisites": ["Fighter Tech I", "Frigate Shipyard Tech"]
         }
