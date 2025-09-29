@@ -84,7 +84,7 @@
     "techs": [
         {
             "name": "Corvette Shipyard Tech", 
-            "row": 5,
+            "row": 9,
             "quote": "Placeholder", 
             "prerequisites": ["Thermal Armaments I", "Kinetic Armaments I"]
         }
@@ -100,7 +100,7 @@
     "techs": [
         {
             "name": "Fighter Tech I",
-            "row": 6,  // MOVED UP to avoid row traffic
+            "row": 10,  // 9 and 10 ratio?
             "quote": "Placeholder",
             "prerequisites": ["Corvette Shipyard Tech"]
         }
@@ -150,7 +150,7 @@
     "techs": [
         {
             "name": "Frigate Shipyard Tech",
-            "row": 5, 
+            "row": 9, 
             "quote": "Placeholder",
             "prerequisites": ["Thermal Armaments II", "Kinetic Armaments II"]
         }
@@ -166,7 +166,7 @@
     "techs": [
         {
             "name": "Fighter Tech II",
-            "row": 6,  // MOVED to different row from Frigate Shipyard
+            "row": 10,  // MOVED to different row from Frigate Shipyard
             "quote": "Placeholder",
             "prerequisites": ["Fighter Tech I", "Frigate Shipyard Tech"]
         }
