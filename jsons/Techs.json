@@ -12,9 +12,9 @@
         "uniques": ["Starting tech"]
     }]
 },
-//Column 2 - OLD ERA
+//Column 1 - OLD ERA
 {
-    "columnNumber": 2,
+    "columnNumber": 1,
     "era": "Old Era", 
     "techCost": 80,
     "buildingCost": 120,
@@ -46,9 +46,9 @@
         }
     ]
 },
-//Column 4 - OLD ERA  
+//Column 2 - OLD ERA  
 {
-    "columnNumber": 4,
+    "columnNumber": 2,
     "era": "Old Era",
     "techCost": 120,
     "buildingCost": 120,
@@ -62,21 +62,21 @@
         },
         {
             "name": "Thermal Armaments I", 
-            "row": 2,
+            "row": 1,
             "quote": "Placeholder",
             "prerequisites": ["Mobilization"]
         },
         {
             "name": "Kinetic Armaments I",
-            "row": 6, 
+            "row": 7, 
             "quote": "Placeholder",
             "prerequisites": ["Mobilization"]
         }
     ]
 },
-//Column 6 - OLD ERA (Military Focus)
+//Column 3 - OLD ERA (Military Focus)
 {
-    "columnNumber": 6,
+    "columnNumber": 3,
     "era": "Old Era",
     "techCost": 160,
     "buildingCost": 180,
@@ -90,15 +90,15 @@
         },
         {
             "name": "Fighter Tech I",
-            "row": 8,
+            "row": 9,
             "quote": "Placeholder",
             "prerequisites": ["Corvette Shipyard Tech"]
         }
     ]
 },
-//Column 8 - BREAKTHROUGH ERA (Tier IIs)
+//Column 4 - BREAKTHROUGH ERA (Tier IIs)
 {
-    "columnNumber": 8,
+    "columnNumber": 4,
     "era": "Breakthrough Era", 
     "techCost": 200,
     "buildingCost": 240,
@@ -112,27 +112,27 @@
         },
         {
             "name": "Thermal Armaments II",
-            "row": 4,
+            "row": 1,
             "quote": "Placeholder", 
             "prerequisites": ["Corvette Shipyard Tech"]
         },
         {
             "name": "Kinetic Armaments II",
-            "row": 6,
+            "row": 7,
             "quote": "Placeholder",
             "prerequisites": ["Corvette Shipyard Tech"]
         },
         {
             "name": "Mineralogy II",
-            "row": 8,
+            "row": 6,
             "quote": "Placeholder", 
             "prerequisites": ["Mineralogy I", "Industrialization"]
         }
     ]
 },
-//Column 10 - BREAKTHROUGH ERA (Advanced Military)
+//Column 5 - BREAKTHROUGH ERA (Advanced Military)
 {
-    "columnNumber": 10,
+    "columnNumber": 5,
     "era": "Breakthrough Era",
     "techCost": 280,
     "buildingCost": 320,
@@ -146,7 +146,7 @@
         },
         {
             "name": "Fighter Tech II",
-            "row": 8,
+            "row": 9,
             "quote": "Placeholder",
             "prerequisites": ["Fighter Tech I", "Frigate Shipyard Tech"]
         }
