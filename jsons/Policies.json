@@ -55,11 +55,13 @@
 				"column": 4
 			},
 			{
-				"name": "Consolidated Frontier",
+				"name": "New Frontier Foundations Complete",
 				"uniques": [
 					"[+15]% growth [in all cities]",
 					"Provides a [Placeholder] in your first [4] cities for free"
-				]
+				],
+				"row": 4,
+				"column": 3
 			}
 		]
 	}
