@@ -7,7 +7,7 @@
     "food": 1,
     "improvement": "Mining Operation",
     "improvementStats": {"food": 2},
-    "uniques": ["Generated on every [7] tiles <in [Asteroids] tiles>"]
+    "uniques": ["Generated on every [10] tiles <in [Asteroids] tiles>"]
 },
   {
     "name": "Hydrogenotrophic Biomass",
@@ -16,7 +16,7 @@
     "food": 1,
     "improvement": "Nebula Extractor",
     "improvementStats": {"food": 1},
-    "uniques": ["Generated on every [7] tiles <in [Nebula] tiles>"]
+    "uniques": ["Generated on every [8] tiles <in [Nebula] tiles>"]
   },
   //Strategic
 {
