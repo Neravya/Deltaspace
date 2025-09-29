@@ -87,18 +87,28 @@
             "row": 4,
             "quote": "Placeholder", 
             "prerequisites": ["Thermal Armaments I", "Kinetic Armaments I"]
-        },
+        }
+    ]
+},
+//Column 4 - OLD ERA (Fighter Branch)
+{
+    "columnNumber": 4,
+    "era": "Old Era",
+    "techCost": 160,
+    "buildingCost": 180,
+    "wonderCost": 480,
+    "techs": [
         {
             "name": "Fighter Tech I",
-            "row": 9,
+            "row": 4,
             "quote": "Placeholder",
             "prerequisites": ["Corvette Shipyard Tech"]
         }
     ]
 },
-//Column 4 - BREAKTHROUGH ERA (Tier IIs)
+//Column 5 - BREAKTHROUGH ERA (Tier IIs)
 {
-    "columnNumber": 4,
+    "columnNumber": 5,
     "era": "Breakthrough Era", 
     "techCost": 200,
     "buildingCost": 240,
@@ -130,9 +140,9 @@
         }
     ]
 },
-//Column 5 - BREAKTHROUGH ERA (Advanced Military)
+//Column 6 - BREAKTHROUGH ERA (Advanced Military)
 {
-    "columnNumber": 5,
+    "columnNumber": 6,
     "era": "Breakthrough Era",
     "techCost": 280,
     "buildingCost": 320,
@@ -143,10 +153,20 @@
             "row": 4, 
             "quote": "Placeholder",
             "prerequisites": ["Thermal Armaments II", "Kinetic Armaments II"]
-        },
+        }
+    ]
+},
+//Column 7 - BREAKTHROUGH ERA (Advanced Fighters)
+{
+    "columnNumber": 7,
+    "era": "Breakthrough Era",
+    "techCost": 280,
+    "buildingCost": 320,
+    "wonderCost": 800,  
+    "techs": [
         {
             "name": "Fighter Tech II",
-            "row": 9,
+            "row": 4,
             "quote": "Placeholder",
             "prerequisites": ["Fighter Tech I", "Frigate Shipyard Tech"]
         }
