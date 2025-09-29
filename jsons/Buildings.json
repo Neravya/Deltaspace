@@ -39,10 +39,15 @@
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured",
 		           ],
-		"civilopediaText": [
-			{
-				"text": "Placeholder"
-			}
-		]
 	},
+	{
+		"name": "Granary",
+		"food": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Ice Presence] tiles [in this city]",
+			"[+1 Food] from [Hydrogen] tiles [in this city]"],
+		"requiredTech": "Habitation"
+	}
 ]
