@@ -1,7 +1,7 @@
 [
   //Bonus
 {
-    "name": "Ice Presence",
+    "name": "Ice Asteroids",
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": ["Asteroids"],
     "food": 1,
@@ -21,7 +21,7 @@
   },
   //Strategic
 {
-    "name": "Iron Presence",
+    "name": "Iron Asteroids",
     "resourceType": "Strategic",
     "revealedBy": "Mineralogy I",
     "terrainsCanBeFoundOn": ["Asteroids"],
@@ -34,6 +34,22 @@
     ],
     "majorDepositAmount": {"sparse": 4, "default": 4, "abundant": 6},
     "minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
+},
+{
+    "name": "Titanium Asteroids",
+    "resourceType": "Strategic",
+    "revealedBy": "Mineralogy II",
+    "terrainsCanBeFoundOn": ["Asteroids"],
+    "production": 1,
+    "gold": 1,
+    "improvement": "Mining Operation",
+    "improvementStats": {"production": 2, "gold": 1},
+    "uniques": [
+        "Generated with weight [60] <in [Asteroids] tiles>",
+        "Minor deposits generated with weight [15] <in [Asteroids] tiles>"
+    ],
+    "majorDepositAmount": {"sparse": 3, "default": 3, "abundant": 5},
+    "minorDepositAmount": {"sparse": 1, "default": 1, "abundant": 2}
 },
   //Luxury
 {
@@ -50,7 +66,7 @@
     ]
 },
   {
-    "name": "Gold Presence",
+    "name": "Gold Asteroids",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": ["Asteroids"],
     "gold": 2,
