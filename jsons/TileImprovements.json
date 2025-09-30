@@ -10,14 +10,14 @@
 },
 	//Turret Rigs
 {
-	"name": "x2 Vulcan Rig"
+	"name": "x2 Vulcan Rig",
 	"terrainsCanBeBuiltOn": ["Land"],
 	"turnsToBuild": 12,
 	"techRequired": "Kinetic Armaments I",
 	"uniques": [],
 },
 {
-	"name": "x4 PCL Rig"
+	"name": "x4 PCL Rig",
 	"terrainsCanBeBuiltOn": ["Land"],
 	"turnsToBuild": 12,
 	"techRequired": "Thermal Armaments I",
