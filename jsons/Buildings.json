@@ -31,15 +31,17 @@
 		],
 	},
 	// Old Era
-	{
-		"name": "Frontier Module",
-		"culture": 2,
-		"cost": 40,
-		"hurryCostModifier": 40,
-		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured",
-		           ],
-	},
+{
+    "name": "Frontier Module", 
+    "culture": 1,
+    "cost": 60,
+    "maintenance": 1,
+    "uniques": [
+        "Destroyed when the city is captured",
+        "[+1 Culture] for every [2] population [in this city]", // Scaling!
+        "[+1 Faith] from [Luxury resource] tiles [in this city]"
+    ]
+},
 	{
 		"name": "Biocultivator",
 		"food": 2,
