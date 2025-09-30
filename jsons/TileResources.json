@@ -39,7 +39,6 @@
 {
     "name": "Exotic Gas",
     "resourceType": "Luxury",
-    "revealedBy": "Nebulogy II",
     "terrainsCanBeFoundOn": ["Nebula"],
     "science": 1,
     "gold": 1,
@@ -53,7 +52,6 @@
   {
     "name": "Gold Presence",
     "resourceType": "Luxury",
-    "revealedBy": "Mineralogy II",
     "terrainsCanBeFoundOn": ["Asteroids"],
     "gold": 2,
     "improvement": "Mining Operation",
