@@ -19,7 +19,7 @@
 {
 	"name": "x4 PCL Rig"
 	"terrainsCanBeBuiltOn": ["Land"],
-	"turndToBuild": 12,
+	"turnsToBuild": 12,
 	"techRequired": "Thermal Armaments I",
 	"uniques": [],
 },
