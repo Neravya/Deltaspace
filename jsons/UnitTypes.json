@@ -12,16 +12,17 @@
   {
   "name": "Fighter",
   "movementType": "Air"
-},
+  },
   //Corvettes, specific for recon with fighting capability.
   {
     "name": "Corvette",
     "movementType": "Land"
+    "uniques": ["Turn this tile into a [Debris Field] tile <upon being defeated> <with [15]% chance>"],
   },
   // Frigates, made for general combat.
   {
     "name": "Frigate",
     "movementType": "Land"
-    "uniques": ["Turn this tile into a [Debris Field] tile <upon being defeated> <with [99]% chance>"],
+    "uniques": ["Turn this tile into a [Debris Field] tile <upon being defeated> <with [25]% chance>"],
   }
 ]
