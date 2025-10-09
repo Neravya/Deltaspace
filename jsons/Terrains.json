@@ -30,6 +30,20 @@
     ]
   },
   {
+    "name": "Ion Storm", 
+    "type": "TerrainFeature",
+    "movementCost": 2,
+    "unbuildable": true,
+    "defenceBonus": -0.3,  // COMBAT PENALTY
+    "occursOn": ["Space"],
+    "uniques": [
+        "Rare feature",
+        "Units ending their turn on this terrain take [20] damage",
+        "Nullifies all other stats this tile provides",
+        "[-2] to Fertility for Map Generation",
+    ]
+  },
+  {
     "name": "Asteroids",
     "type": "TerrainFeature",
     "production": 2,
