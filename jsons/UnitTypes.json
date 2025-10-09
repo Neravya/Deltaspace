@@ -3,7 +3,7 @@
     "name": "Civilian", //Workers, Settlers(Colonizers), etc etc.
     "movementType": "Land"
   },
-  // Built on top of the Defense Platform
+  // Built on top of the Defense Rigs
   {
     "name": "Defense Battery",
     "movementType": "Land"
