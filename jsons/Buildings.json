@@ -49,7 +49,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 60,
 		"uniques": [
-			"[+1 Food] from [Ice Presence] tiles [in this city]",
+			"[+1 Food] from [Ice Asteroids] tiles [in this city]",
 			"[+1 Food] from [Hydrogenotrophic Biomass] tiles [in this city]"],
 		"requiredTech": "Habitation"
 	}
