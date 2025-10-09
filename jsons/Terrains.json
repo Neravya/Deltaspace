@@ -63,5 +63,21 @@
       "A Region is formed with at least [20]% [Asteroids] tiles, with priority [7]",
       "Considered [Desirable] when determining start locations"
     ]
+  },
+  {
+    "name": "Dense Asteroids",
+    "type": "Land",
+    "movementCost": 2,
+    "impassable": true,
+    "defenceBonus": 0.25,
+    "RGB": [60, 60, 60], 
+    "uniques": [
+        "Rough terrain", 
+        "Has an elevation of [3] for visibility calculations", 
+        "Blocks line-of-sight from tiles at same elevation",
+        "Occurs in chains at high elevations", 
+        "Always Fertility [-2] for Map Generation",
+        "Considered [Undesirable] when determining start locations"
+    ]
   }
 ]
