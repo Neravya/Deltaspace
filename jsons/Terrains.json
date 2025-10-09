@@ -92,7 +92,7 @@
     "Rough terrain",
     "Doesn't generate naturally", // ONLY FROM COMBAT
     "Nullifies all other stats this tile provides",
-    "Provides a one-time bonus of [+20 Production] to the closest city when cleared <(modified by game speed)>",
+    "Provides a one-time bonus of [+20 Production] to the closest city when cut down <(modified by game speed)>",
     "[25]% Chance to be destroyed by nukes",
     "Considered [Undesirable] when determining start locations"
   ]
