@@ -23,6 +23,13 @@
 	"techRequired": "Thermal Armaments I",
 	"uniques": [],
 },
+{
+	"name": "Hangar Rig",
+	"terrainsCanBeBuiltOn": ["Land"],
+	"turnsToBuild": 12,
+	"techRequired": "Fighter Tech I",
+	"uniques": [],
+},
 	//Tile Improvenents
 {
 	"name": "Mining Operation",
