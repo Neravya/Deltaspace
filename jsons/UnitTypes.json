@@ -22,5 +22,6 @@
   {
     "name": "Frigate",
     "movementType": "Land"
+    "uniques": "Turn this tile into a [Debris Field] tile <upon being defeated>"
   }
 ]
