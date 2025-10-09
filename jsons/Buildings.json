@@ -39,7 +39,7 @@
     "maintenance": 1,
     "uniques": [
         "Destroyed when the city is captured",
-		"[+1 Culture] per [3] population [In this city]",
+		"[+1 Culture] per [3] population [in this city]",
         "[+1 Faith] from [Luxury resource] tiles [in this city]"
     ]
 },
