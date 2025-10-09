@@ -20,7 +20,7 @@
     "uniques": [
       "Rare feature",
       "Rough terrain",
-      "Occurs in groups of [3] to [7] tiles", // Clumping command for Nebula clouds
+      "Occurs in groups of [8] to [20] tiles", // Clumping command for Nebula clouds
       "[+10] Strength for cities built on this terrain",
       "Has an elevation of [2] for visibility calculations",
       "Blocks line-of-sight from tiles at same elevation",
