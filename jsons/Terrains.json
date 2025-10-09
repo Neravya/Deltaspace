@@ -21,7 +21,7 @@
       "Rare feature",
       "Rough terrain",
       "Occurs in groups of [8] to [20] tiles", // Clumping command for Nebula clouds
-      "[+10] Strength for cities built on this terrain",
+      "[+2] Strength for cities built on this terrain",
       "Has an elevation of [2] for visibility calculations",
       "Blocks line-of-sight from tiles at same elevation",
       "[+1] to Fertility for Map Generation",
@@ -56,7 +56,7 @@
       "Rare feature",
       "Rough terrain",
       "Occurs in groups of [4] to [12] tiles", // Clumping command for Asteroid fields (slightly larger)
-      "[+10] Strength for cities built on this terrain",
+      "[+5] Strength for cities built on this terrain",
       "Has an elevation of [2] for visibility calculations",
       "Blocks line-of-sight from tiles at same elevation",
       "[+1] to Fertility for Map Generation",
