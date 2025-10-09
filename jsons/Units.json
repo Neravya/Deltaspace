@@ -55,7 +55,7 @@
     "strength": 15,
     "uniques": [
       "Unbuildable", "Cannot attack",
-      "Can carry [2] [Fighter Ships] units",
+      "Can carry [2] [Fighter] units",
     ],
     "promotions": ["Immobile"]
   },
