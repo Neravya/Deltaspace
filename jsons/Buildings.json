@@ -12,6 +12,7 @@
 		"cityStrength": 2,
 		"cost": 1, //instantly provided on the first settlementt
 		"uniques": [
+			"Provides [10] [Manpower]",
 			"Indicates the capital city"],
 		"civilopediaText": [
 			{
