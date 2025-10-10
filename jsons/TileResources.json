@@ -1,5 +1,16 @@
 //todo: moar resources n stuff.
 [
+  //Manpowah
+{
+    "name": "Manpower", 
+    "resourceType": "Strategic", 
+    "revealedBy": "Mobilization",
+    "uniques": ["Excluded from map editor"],
+    "civilopediaText": [
+        {
+            "text": "The lifeblood of your empire. Every ship, defense platform, and many buildings require crew and personnel to operate. More cities means more manpower capacity"
+    ]
+},
   //Bonus
 {
     "name": "Ice Asteroids",
