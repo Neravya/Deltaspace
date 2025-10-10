@@ -46,7 +46,7 @@
     },
     {
         "name": "Colonist Lifeboat Recovery",
-        "notification": "A generation ship lifeboat was adrift here for centuries. [+1] population in [cityName]",
+        "notification": "A generation ship lifeboat was adrift here for centuries. Population added to [cityName]",
         "uniques": ["[+1] population in a random city"],
         "color": "#57f78a"
     },
