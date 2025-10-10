@@ -8,5 +8,5 @@
 		"[-33]% [Production] [in all cities] <when below [-10] [Happiness]>",
 		"[-33]% Strength <for [All] units> <when below [-10] [Happiness]>",
 		"Cannot build [Colonizer] units <when below [-10] [Happiness]>",
-	    "Provides [10] [Manpower] <in cities with at least [2] [Population]>"]
+	    "Provides [10] [Manpower] <upon turn start> <in cities with at least [2] [Population]>"]
 }
