@@ -1,33 +1,63 @@
 [
-    // Rift Cache Discovery (Science Focus)
+    // Rift Cache Discovery (Science Focus) - MULTIPLE VARIANTS
     {
         "name": "Rift Cache Decrypted",
         "notification": "The Energy Signature conceals a stable Rift Cache! Our scientists are ecstatic. [+20 Science]",
         "uniques": ["Gain [20] [Science]"],
         "color": "#4dffdb"
     },
-    // Strange Debris (Culture Focus)
+    {
+        "name": "Ancient Data Core", 
+        "notification": "We've recovered a pristine data storage device from the ruins. [+20 Science]",
+        "uniques": ["Gain [20] [Science]"],
+        "color": "#4dffdb"
+    },
+    {
+        "name": "Alien Research Station",
+        "notification": "An abandoned research outpost still has power. We've downloaded its databases. [+20 Science]",
+        "uniques": ["Gain [20] [Science]"], 
+        "color": "#4dffdb"
+    },
+    // Strange Debris (Culture Focus) - MULTIPLE VARIANTS
     {
         "name": "Strange Debris Analyzed",
         "notification": "The debris is covered in non-human symbols. Artists and philosophers are inspired. [+20 Culture]",
         "uniques": ["Gain [20] [Culture]"],
         "color": "#cf8ff7"
     },
-    // Stranded Pod (Population Focus)
     {
-        "name": "Rescue Stranded Pod",
+        "name": "Alien Artifact Studied",
+        "notification": "This intricate device has no practical function, but its beauty is breathtaking. [+20 Culture]", 
+        "uniques": ["Gain [20] [Culture]"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "Xeno-Archaeological Find",
+        "notification": "We've uncovered what appears to be an alien memorial site. [+20 Culture]",
+        "uniques": ["Gain [20] [Culture]"],
+        "color": "#cf8ff7"
+    },
+    // Stranded Pod (Population Focus) - MULTIPLE VARIANTS
+    {
+        "name": "Rescue Stranded Pod", 
         "notification": "We found a cryo-pod with survivors! They have joined our station. Population added to [cityName]",
         "uniques": ["[+1] population in a random city"],
         "color": "#57f78a"
     },
-    // Broken-Down Ship (Unit Focus)
+    {
+        "name": "Colonist Lifeboat Recovery",
+        "notification": "A generation ship lifeboat was adrift here for centuries. [+1] population in [cityName]",
+        "uniques": ["[+1] population in a random city"],
+        "color": "#57f78a"
+    },
+    // Broken-Down Ship (Unit Focus) - ONLY 1 NOW
     {
         "name": "Repair Civilian Ship",
         "notification": "We've assisted a damaged constructor vessel. Its crew has sworn allegiance. [Free Constructor Ship] appears",
         "uniques": ["Free [Constructor Ship] appears"],
         "color": "#f7f157"
     },
-    // Minor Military Find (Scout Unit)
+    // Minor Military Find (Scout Unit) - ONLY 1 NOW  
     {
         "name": "Salvage Corvette",
         "notification": "The signature was a powered-down Corvette, its crew lost. We've restored it to service. [Free Corsair] appears",
