@@ -91,7 +91,7 @@
     "uniques": [
       "Rough terrain",
       "Occurs in groups around high elevations",.
-      "Occurs in groups of [4] to [12] tiles", // Clumping command for Asteroid fields (slightly larger)
+      "Occurs in groups of [4] to [8] tiles", // Clumping command for Asteroid fields 4-12 -> 4-8 stablier and less chaotic
       "[+5] Strength for cities built on this terrain",
       "Has an elevation of [2] for visibility calculations",
       "[+1] to Fertility for Map Generation",
