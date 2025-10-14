@@ -56,7 +56,7 @@
         "Has an elevation of [3] for visibility calculations",
         "Blocks line-of-sight from tiles at same elevation",
         "Occurs in groups around high elevations",
-        "Occurs in groups of [8] to [20] tiles",
+        "Occurs in groups of [8] to [12] tiles",
         "[+1] to Fertility for Map Generation",
         "A Region is formed with at least [30]% [Nebula] tiles, with priority [6]",
         "Considered [Desirable] when determining start locations",
