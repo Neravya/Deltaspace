@@ -62,7 +62,6 @@
       "[+1] to Fertility for Map Generation",
       "A Region is formed with at least [15]% [Nebula] tiles, with priority [6]",
       "Considered [Desirable] when determining start locations",
-      "Considered [Science] when determining start locations",
       "Every [40] tiles with this terrain will receive a major deposit of a strategic resource."
     ]
   },
