@@ -43,28 +43,25 @@
 },
 
 // Terrain Features
-  {
+{
     "name": "Nebula",
     "type": "TerrainFeature",
-    "science": 1,
     "movementCost": 2,
-    "overrideStats": true,
-    "defenceBonus": 0.05,
-    "RGB": [200, 50, 200],
+    "defenceBonus": 0.15,
+    "RGB": [180, 100, 220],
     "occursOn": ["Space", "Deep Space", "Void"],
     "uniques": [
-      "Rare feature",
-      "Rough terrain",
-      "Occurs in groups of [8] to [20] tiles", // Clumping command for Nebula clouds
-      "[+2] Strength for cities built on this terrain",
-      "Has an elevation of [2] for visibility calculations",
-      "Blocks line-of-sight from tiles at same elevation",
-      "[+1] to Fertility for Map Generation",
-      "A Region is formed with at least [15]% [Nebula] tiles, with priority [6]",
-      "Considered [Desirable] when determining start locations",
-      "Every [40] tiles with this terrain will receive a major deposit of a strategic resource."
+        "Rough terrain",
+        "[+3] Strength for cities built on this terrain",
+        "Has an elevation of [2] for visibility calculations",
+        "Blocks line-of-sight from tiles at same elevation",
+        "Occurs in groups of [8] to [20] tiles",
+        "[+1] to Fertility for Map Generation",
+        "A Region is formed with at least [30]% [Nebula] tiles, with priority [6]",
+        "Base Terrain on this tile is not counted for Region determination",
+        "Considered [Desirable] when determining start locations"
     ]
-  },
+},
   {
     "name": "Ion Storm", 
     "type": "TerrainFeature",
@@ -85,10 +82,9 @@
     "type": "TerrainFeature",
     "production": 2,
     "movementCost": 2,
-    "overrideStats": true,
     "defenceBonus": 0.15,
     "RGB": [150, 150, 150],
-    "occursOn": ["Space", "Deep Space", "Void"],
+    "occursOn": ["Space", "Deep Space", "Void", "Nebula"],
     "uniques": [
       "Rough terrain",
       "Vegetation",
