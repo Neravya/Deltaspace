@@ -52,10 +52,10 @@
     "occursOn": ["Space", "Deep Space", "Void"],
     "uniques": [
         "Rough terrain",
+        "Vegetation",
         "[+3] Strength for cities built on this terrain",
-        "Has an elevation of [3] for visibility calculations",
-        "Blocks line-of-sight from tiles at same elevation",
-        //"Occurs in groups around high elevations",
+        "Has an elevation of [2] for visibility calculations",
+        "Blocks line-of-sight from tiles at same elevation", //So you can't peek through from a Dense Asteroid
         "Occurs in groups of [8] to [12] tiles",
         "[+1] to Fertility for Map Generation",
         "A Region is formed with at least [40]% [Nebula] tiles, with priority [6]",
@@ -72,8 +72,8 @@
     "occursOn": ["Space", "Deep Space", "Void", "Asteroids", "Nebula"],
     "uniques": [
         "Rare feature",
-        "Has an elevation of [3] for visibility calculations",
-        "Blocks line-of-sight from tiles at same elevation",
+        "Has an elevation of [2] for visibility calculations",
+        "Blocks line-of-sight from tiles at same elevation", //Also the same ship is blinded AND hidden thru Global Uniques
         "Units ending their turn on this terrain take [20] damage",
         "Nullifies all other stats this tile provides",
         "[-2] to Fertility for Map Generation",
@@ -90,11 +90,10 @@
     "occursOn": ["Space", "Deep Space", "Void", "Nebula"],
     "uniques": [
       "Rough terrain",
-      "Vegetation",
+      "Occurs in groups around high elevations",.
       "Occurs in groups of [4] to [12] tiles", // Clumping command for Asteroid fields (slightly larger)
       "[+5] Strength for cities built on this terrain",
       "Has an elevation of [2] for visibility calculations",
-      "Blocks line-of-sight from tiles at same elevation",
       "[+1] to Fertility for Map Generation",
       "A Region is formed with at least [25]% [Asteroids] tiles, with priority [5]",
       "Considered [Desirable] when determining start locations",
@@ -111,7 +110,7 @@
     "RGB": [60, 60, 60], 
     "uniques": [
         "Rough terrain", 
-        "Has an elevation of [3] for visibility calculations", 
+        "Has an elevation of [2] for visibility calculations", 
         "Blocks line-of-sight from tiles at same elevation",
         "Occurs in chains at high elevations", 
         "Always Fertility [-2] for Map Generation",
