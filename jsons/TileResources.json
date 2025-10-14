@@ -12,7 +12,8 @@
         }
     ]
 },
-  //Bonus
+
+// Bonus Resources
 {
     "name": "Ice Asteroids",
     "resourceType": "Bonus",
@@ -20,9 +21,14 @@
     "food": 1,
     "improvement": "Mining Operation",
     "improvementStats": {"food": 2},
-    "uniques": ["Generated on every [10] tiles <in [Asteroids] tiles>"]
+    "uniques": [
+        "Generated on every [10] tiles <in [Asteroids] tiles>",
+        "Generated with weight [30] <in [Space] Regions>",
+        "Generated with weight [20] <in [Deep Space] Regions>",
+        "Generated with weight [5] <in [Void] Regions>"
+    ]
 },
-  {
+{
     "name": "Hydrogenotrophic Biomass",
     "resourceType": "Bonus",
     "revealedBy": "Nebulogy I",
@@ -30,9 +36,15 @@
     "food": 1,
     "improvement": "Nebula Extractor",
     "improvementStats": {"food": 1},
-    "uniques": ["Generated on every [8] tiles <in [Nebula] tiles>"]
-  },
-  //Strategic
+    "uniques": [
+        "Generated on every [8] tiles <in [Nebula] tiles>",
+        "Generated with weight [35] <in [Space] Regions>",
+        "Generated with weight [25] <in [Deep Space] Regions>",
+        "Generated with weight [10] <in [Void] Regions>"
+    ]
+},
+
+// Strategic Resources
 {
     "name": "Iron Asteroids",
     "resourceType": "Strategic",
@@ -43,7 +55,11 @@
     "improvementStats": {"production": 1},
     "uniques": [
         "Generated with weight [100] <in [Asteroids] tiles>",
-        "Minor deposits generated with weight [20] <in [Asteroids] tiles>"
+        "Minor deposits generated with weight [20] <in [Asteroids] tiles>",
+        "Generated with weight [50] <in [Space] Regions>",
+        "Generated with weight [30] <in [Deep Space] Regions>",
+        "Generated with weight [10] <in [Void] Regions>",
+        "Guaranteed with Strategic Balance resource option"
     ],
     "majorDepositAmount": {"sparse": 4, "default": 4, "abundant": 6},
     "minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
@@ -59,12 +75,16 @@
     "improvementStats": {"production": 2, "gold": 1},
     "uniques": [
         "Generated with weight [60] <in [Asteroids] tiles>",
-        "Minor deposits generated with weight [15] <in [Asteroids] tiles>"
+        "Minor deposits generated with weight [15] <in [Asteroids] tiles>",
+        "Generated with weight [40] <in [Space] Regions>",
+        "Generated with weight [25] <in [Deep Space] Regions>",
+        "Generated with weight [5] <in [Void] Regions>"
     ],
     "majorDepositAmount": {"sparse": 3, "default": 3, "abundant": 5},
     "minorDepositAmount": {"sparse": 1, "default": 1, "abundant": 2}
 },
-  //Luxury
+
+// Luxury Resources
 {
     "name": "Exotic Gas",
     "resourceType": "Luxury",
@@ -75,10 +95,13 @@
     "improvementStats": {"science": 1, "gold": 1},
     "uniques": [
         "Generated with weight [40] <in [Nebula] Regions>",
-        "Generated near City States with weight [20]"
+        "Generated near City States with weight [20]",
+        "Generated with weight [35] <in [Space] Regions>",
+        "Generated with weight [20] <in [Deep Space] Regions>",
+        "Generated with weight [8] <in [Void] Regions>"
     ]
 },
-  {
+{
     "name": "Gold Asteroids",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": ["Asteroids"],
@@ -87,7 +110,10 @@
     "improvementStats": {"gold": 2},
     "uniques": [
         "Generated with weight [45] <in [Asteroids] Regions>",
-        "Generated near City States with weight [25]"
+        "Generated near City States with weight [25]",
+        "Generated with weight [30] <in [Space] Regions>",
+        "Generated with weight [15] <in [Deep Space] Regions>",
+        "Generated with weight [3] <in [Void] Regions>"
     ]
 }
 ]
