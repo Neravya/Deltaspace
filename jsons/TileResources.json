@@ -82,10 +82,58 @@
     "majorDepositAmount": {"sparse": 3, "default": 3, "abundant": 5},
     "minorDepositAmount": {"sparse": 1, "default": 1, "abundant": 2}
 },
+// New Nebula Strategics
+{
+    "name": "Nebula-7",
+    "resourceType": "Strategic",
+    "revealedBy": "Mobilization",
+    "terrainsCanBeFoundOn": ["Nebula"],
+    "production": 1,
+    "improvement": "Nebula Extractor",
+    "improvementStats": {"production": 1},
+    "uniques": [
+        "Generated with weight [25] <in [Nebula] tiles>",
+        "Generated with weight [15] <in [Space] Regions>",
+        "Generated with weight [10] <in [Deep Space] Regions>",
+        "Generated with weight [2] <in [Void] Regions>"
+    ]
+},
+{
+    "name": "GLOW",
+    "resourceType": "Strategic",
+    "revealedBy": "Mobilization",
+    "terrainsCanBeFoundOn": ["Nebula"],
+    "science": 1,
+    "improvement": "Nebula Extractor",
+    "improvementStats": {"science": 1},
+    "uniques": [
+        "Generated with weight [25] <in [Nebula] tiles>",
+        "Generated with weight [15] <in [Space] Regions>", 
+        "Generated with weight [10] <in [Deep Space] Regions>",
+        "Generated with weight [2] <in [Void] Regions>"
+    ]
+},
+{
+    "name": "Helium-3",
+    "resourceType": "Strategic",
+    "revealedBy": "Mobilization",
+    "terrainsCanBeFoundOn": ["Nebula", "Asteroids", "Dense Asteroids"],
+    "production": 1,
+    "improvement": "Nebula Extractor",
+    "improvementStats": {"production": 1},
+    "uniques": [
+        "Generated with weight [15] <in [Nebula] tiles>",
+        "Generated with weight [5] <in [Asteroids] tiles>",
+        "Generated with weight [25] <in [Dense Asteroids] tiles>",
+        "Generated with weight [8] <in [Space] Regions>",
+        "Generated with weight [4] <in [Deep Space] Regions>",
+        "Generated with weight [1] <in [Void] Regions>"
+    ]
+},
 
 // Luxury Resources
 {
-    "name": "Exotic Gas",
+    "name": "Nebula-10",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": ["Nebula"],
     "science": 1,
@@ -113,6 +161,39 @@
         "Generated with weight [25] <in [Space] Regions>",
         "Generated with weight [10] <in [Deep Space] Regions>",
         "Generated with weight [2] <in [Void] Regions>"
+    ]
+},
+{
+    "name": "Quantum Foam", 
+    "resourceType": "Luxury",
+    "revealedBy": "Mobilization",
+    "terrainsCanBeFoundOn": ["Nebula"],
+    "science": 2,
+    "improvement": "Nebula Extractor",
+    "improvementStats": {"science": 1},
+    "uniques": [
+        "Generated with weight [25] <in [Nebula] Regions>",
+        "Generated near City States with weight [20]",
+        "Generated with weight [20] <in [Space] Regions>",
+        "Generated with weight [12] <in [Deep Space] Regions>", 
+        "Generated with weight [4] <in [Void] Regions>"
+    ]
+},
+{
+    "name": "Living Nebula",
+    "resourceType": "Luxury",
+    "revealedBy": "Mobilization",
+    "terrainsCanBeFoundOn": ["Nebula"],
+    "food": 2,
+    "science": 2,
+    "improvement": "Nebula Sanctuary", 
+    "improvementStats": {"food": 1, "science": 1},
+    "uniques": [
+        "Generated with weight [25] <in [Nebula] Regions>",
+        "Generated near City States with weight [20]",
+        "Generated with weight [20] <in [Space] Regions>",
+        "Generated with weight [12] <in [Deep Space] Regions>",
+        "Generated with weight [4] <in [Void] Regions>"
     ]
 }
 ]
