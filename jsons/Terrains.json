@@ -51,7 +51,6 @@
     "RGB": [180, 100, 220],
     "occursOn": ["Space", "Deep Space", "Void"],
     "uniques": [
-        "Rough terrain",
         "Rare feature",
         "[+3] Strength for cities built on this terrain",
         "Has an elevation of [2] for visibility calculations",
@@ -112,7 +111,8 @@
         "Rough terrain", 
         "Has an elevation of [2] for visibility calculations", 
         "Blocks line-of-sight from tiles at same elevation",
-        "Occurs in chains at high elevations", 
+        "Occurs in chains at high elevations",
+        "Must be adjacent to [3] to [6] [Elevated] tiles",
         "Always Fertility [-2] for Map Generation",
         "Considered [Undesirable] when determining start locations"
     ]
