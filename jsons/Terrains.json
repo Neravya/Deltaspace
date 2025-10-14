@@ -58,7 +58,7 @@
         "[+1] to Fertility for Map Generation",
         "A Region is formed with at least [30]% [Nebula] tiles, with priority [5]",
         "Considered [Desirable] when determining start locations",
-        "Every [27] tiles with this terrain will receive a major deposit of a strategic resource."
+        "Every [31] tiles with this terrain will receive a major deposit of a strategic resource."
     ]
 },
   {
@@ -96,24 +96,26 @@
       "A Region is formed with at least [25]% [Asteroids] tiles, with priority [5]",
       "Considered [Desirable] when determining start locations",
       "Considered [Production] when determining start locations",
-      "Every [25] tiles with this terrain will receive a major deposit of a strategic resource."
+      "Every [37] tiles with this terrain will receive a major deposit of a strategic resource."
     ]
   },
   {
     "name": "Dense Asteroids",
-    "type": "Land",
+    "type": "TerrainFeature",
     "movementCost": 2,
     "impassable": true,
     "defenceBonus": 0.25,
-    "RGB": [60, 60, 60], 
+    "RGB": [60, 60, 60],
+    "occursOn": ["Asteroids"],
     "uniques": [
-        "Rough terrain", 
-        "Has an elevation of [2] for visibility calculations", 
+        "Rough terrain",
+        "Has an elevation of [2] for visibility calculations",
         "Blocks line-of-sight from tiles at same elevation",
         "Occurs in chains at high elevations",
         "Must be adjacent to [3] to [6] [Asteroids] tiles",
         "Always Fertility [-2] for Map Generation",
-        "Considered [Undesirable] when determining start locations"
+        "Considered [Undesirable] when determining start locations",
+        "Every [16] tiles with this terrain will receive a major deposit of a strategic resource."
     ]
   },
   {
