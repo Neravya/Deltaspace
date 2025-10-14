@@ -111,7 +111,7 @@
         "Has an elevation of [2] for visibility calculations", 
         "Blocks line-of-sight from tiles at same elevation",
         "Occurs in chains at high elevations",
-        "Must be adjacent to [3] to [6] [Elevated] tiles",
+        "Must be adjacent to [3] to [6] [Asteroids] tiles",
         "Always Fertility [-2] for Map Generation",
         "Considered [Undesirable] when determining start locations"
     ]
