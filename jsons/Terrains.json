@@ -51,11 +51,10 @@
     "RGB": [180, 100, 220],
     "occursOn": ["Space", "Deep Space", "Void"],
     "uniques": [
-        "Vegetation",
+        "Occurs in groups around high elevations",
         "[+3] Strength for cities built on this terrain",
         "Has an elevation of [2] for visibility calculations",
         "Blocks line-of-sight from tiles at same elevation",
-        "Occurs in groups of [4] to [6] tiles",
         "[+1] to Fertility for Map Generation",
         "A Region is formed with at least [30]% [Nebula] tiles, with priority [5]",
         "Considered [Desirable] when determining start locations",
@@ -89,7 +88,8 @@
     "occursOn": ["Space", "Deep Space", "Void", "Nebula"],
     "uniques": [
       "Rough terrain",
-      "Occurs in groups around high elevations",
+      "Vegetation",
+      "Occurs in groups of [4] to [6] tiles",
       "[+5] Strength for cities built on this terrain",
       "Has an elevation of [2] for visibility calculations",
       "[+1] to Fertility for Map Generation",
