@@ -53,12 +53,14 @@
     "uniques": [
         "Rough terrain",
         "[+3] Strength for cities built on this terrain",
-        "Has an elevation of [2] for visibility calculations",
+        "Has an elevation of [3] for visibility calculations",
         "Blocks line-of-sight from tiles at same elevation",
+        "Occurs in groups around high elevations",
         "Occurs in groups of [8] to [20] tiles",
         "[+1] to Fertility for Map Generation",
         "A Region is formed with at least [30]% [Nebula] tiles, with priority [6]",
-        "Considered [Desirable] when determining start locations"
+        "Considered [Desirable] when determining start locations",
+        "Every [27] tiles with this terrain will recieve a major deposit of a strategic resource"
     ]
 },
   {
@@ -70,6 +72,8 @@
     "occursOn": ["Space", "Deep Space", "Void", "Asteroids", "Nebula"],
     "uniques": [
         "Rare feature",
+        "Has an elevation of [3] for visibility calculations",
+        "Blocks line-of-sight from tiles at same elevation",
         "Units ending their turn on this terrain take [20] damage",
         "Nullifies all other stats this tile provides",
         "[-2] to Fertility for Map Generation",
