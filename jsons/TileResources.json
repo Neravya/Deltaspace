@@ -1,4 +1,3 @@
-//todo: moar resources n stuff.
 [
   //Manpowah
 {
@@ -38,8 +37,8 @@
     "improvementStats": {"food": 1},
     "uniques": [
         "Generated on every [8] tiles <in [Nebula] tiles>",
-        "Generated with weight [35] <in [Space] Regions>",
-        "Generated with weight [25] <in [Deep Space] Regions>",
+        "Generated with weight [25] <in [Space] Regions>",
+        "Generated with weight [15] <in [Deep Space] Regions>",
         "Generated with weight [10] <in [Void] Regions>"
     ]
 },
@@ -94,11 +93,11 @@
     "improvement": "Nebula Extractor",
     "improvementStats": {"science": 1, "gold": 1},
     "uniques": [
-        "Generated with weight [40] <in [Nebula] Regions>",
+        "Generated with weight [25] <in [Nebula] Regions>",
         "Generated near City States with weight [20]",
-        "Generated with weight [35] <in [Space] Regions>",
-        "Generated with weight [20] <in [Deep Space] Regions>",
-        "Generated with weight [8] <in [Void] Regions>"
+        "Generated with weight [20] <in [Space] Regions>",
+        "Generated with weight [12] <in [Deep Space] Regions>",
+        "Generated with weight [4] <in [Void] Regions>"
     ]
 },
 {
@@ -109,11 +108,11 @@
     "improvement": "Mining Operation",
     "improvementStats": {"gold": 2},
     "uniques": [
-        "Generated with weight [45] <in [Asteroids] Regions>",
+        "Generated with weight [35] <in [Asteroids] Regions>",
         "Generated near City States with weight [25]",
-        "Generated with weight [30] <in [Space] Regions>",
-        "Generated with weight [15] <in [Deep Space] Regions>",
-        "Generated with weight [3] <in [Void] Regions>"
+        "Generated with weight [25] <in [Space] Regions>",
+        "Generated with weight [10] <in [Deep Space] Regions>",
+        "Generated with weight [2] <in [Void] Regions>"
     ]
 }
 ]
