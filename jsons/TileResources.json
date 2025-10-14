@@ -88,7 +88,7 @@
     "terrainsCanBeFoundOn": ["Dense Asteroids"],
     "production": 2,
     "gold": 1,
-    "improvedBy": ["Advanced Mining Operation"],
+    "improvedBy": ["Mining Operation"],
     "improvementStats": {"production": 3, "gold": 1},
     "uniques": [
         "Generated with weight [50] <in [Dense Asteroids] tiles>",
