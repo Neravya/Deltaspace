@@ -91,6 +91,7 @@
     "occursOn": ["Space", "Deep Space", "Void"],
     "uniques": [
       "Rough terrain",
+      "Rare feature",
       "Occurs in groups of [4] to [12] tiles", // Clumping command for Asteroid fields (slightly larger)
       "[+5] Strength for cities built on this terrain",
       "Has an elevation of [2] for visibility calculations",
