@@ -41,7 +41,7 @@
         {
             "name": "Mobilization",
             "row": 8,
-            "quote": "Placeholder",
+            "quote": "'Nothing fallows the passivity of a spent Initiative.' - Idkwho",
             "prerequisites": ["Sector Intel"]
         }
     ]
