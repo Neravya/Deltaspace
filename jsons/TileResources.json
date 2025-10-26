@@ -1,5 +1,5 @@
 [
-  //Manpowah
+  //Manpower
 {
     "name": "Manpower", 
     "resourceType": "Strategic", 
@@ -11,8 +11,7 @@
         }
     ]
 },
-
-// Bonus Resources
+  //Bonus
 {
     "name": "Ice Asteroids",
     "resourceType": "Bonus",
@@ -22,9 +21,7 @@
     "improvementStats": {"food": 2},
     "uniques": [
         "Generated on every [10] tiles <in [Asteroids] tiles>",
-        "Generated with weight [30] <in [Space] Regions>",
-        "Generated with weight [20] <in [Deep Space] Regions>",
-        "Generated with weight [5] <in [Void] Regions>"
+        "Generated with weight [30] <in [Space] Regions>"
     ]
 },
 {
@@ -37,13 +34,10 @@
     "improvementStats": {"food": 1},
     "uniques": [
         "Generated on every [8] tiles <in [Nebula] tiles>",
-        "Generated with weight [25] <in [Space] Regions>",
-        "Generated with weight [15] <in [Deep Space] Regions>",
-        "Generated with weight [10] <in [Void] Regions>"
+        "Generated with weight [25] <in [Space] Regions>"
     ]
 },
-
-// Strategic Resources
+  //Strategic
 {
     "name": "Iron Asteroids",
     "resourceType": "Strategic",
@@ -56,8 +50,6 @@
         "Generated with weight [80] <in [Asteroids] tiles>",
         "Minor deposits generated with weight [20] <in [Asteroids] tiles>",
         "Generated with weight [40] <in [Space] Regions>",
-        "Generated with weight [20] <in [Deep Space] Regions>",
-        "Generated with weight [10] <in [Void] Regions>",
         "Guaranteed with Strategic Balance resource option"
     ],
     "majorDepositAmount": {"sparse": 4, "default": 4, "abundant": 6},
@@ -74,9 +66,7 @@
     "uniques": [
         "Generated with weight [40] <in [Asteroids] tiles>",
         "Minor deposits generated with weight [15] <in [Asteroids] tiles>",
-        "Generated with weight [25] <in [Space] Regions>",
-        "Generated with weight [15] <in [Deep Space] Regions>",
-        "Generated with weight [5] <in [Void] Regions>"
+        "Generated with weight [25] <in [Space] Regions>"
     ],
     "majorDepositAmount": {"sparse": 3, "default": 3, "abundant": 5},
     "minorDepositAmount": {"sparse": 1, "default": 1, "abundant": 2}
@@ -92,12 +82,9 @@
     "improvementStats": {"production": 3, "gold": 1},
     "uniques": [
         "Generated with weight [50] <in [Dense Asteroids] tiles>",
-        "Generated with weight [20] <in [Space] Regions>",
-        "Generated with weight [10] <in [Deep Space] Regions>",
-        "Generated with weight [2] <in [Void] Regions>"
+        "Generated with weight [20] <in [Space] Regions>"
     ]
 },
-// New Nebula Strategics
 {
     "name": "Nebula-7",
     "resourceType": "Strategic",
@@ -108,9 +95,7 @@
     "improvementStats": {"production": 1},
     "uniques": [
         "Generated with weight [25] <in [Nebula] tiles>",
-        "Generated with weight [15] <in [Space] Regions>",
-        "Generated with weight [10] <in [Deep Space] Regions>",
-        "Generated with weight [2] <in [Void] Regions>"
+        "Generated with weight [15] <in [Space] Regions>"
     ]
 },
 {
@@ -123,9 +108,7 @@
     "improvementStats": {"science": 1},
     "uniques": [
         "Generated with weight [25] <in [Nebula] tiles>",
-        "Generated with weight [15] <in [Space] Regions>", 
-        "Generated with weight [10] <in [Deep Space] Regions>",
-        "Generated with weight [2] <in [Void] Regions>"
+        "Generated with weight [15] <in [Space] Regions>"
     ]
 },
 {
@@ -140,13 +123,10 @@
         "Generated with weight [15] <in [Nebula] tiles>",
         "Generated with weight [5] <in [Asteroids] tiles>",
         "Generated with weight [25] <in [Dense Asteroids] tiles>",
-        "Generated with weight [8] <in [Space] Regions>",
-        "Generated with weight [4] <in [Deep Space] Regions>",
-        "Generated with weight [1] <in [Void] Regions>"
+        "Generated with weight [8] <in [Space] Regions>"
     ]
 },
-
-// Luxury Resources
+  //Luxury
 {
     "name": "Nebula-10",
     "resourceType": "Luxury",
@@ -158,9 +138,7 @@
     "uniques": [
         "Generated with weight [25] <in [Nebula] Regions>",
         "Generated near City States with weight [20]",
-        "Generated with weight [20] <in [Space] Regions>",
-        "Generated with weight [12] <in [Deep Space] Regions>",
-        "Generated with weight [4] <in [Void] Regions>"
+        "Generated with weight [20] <in [Space] Regions>"
     ]
 },
 {
@@ -173,9 +151,7 @@
     "uniques": [
         "Generated with weight [20] <in [Asteroids] Regions>",
         "Generated near City States with weight [25]",
-        "Generated with weight [15] <in [Space] Regions>",
-        "Generated with weight [6] <in [Deep Space] Regions>",
-        "Generated with weight [2] <in [Void] Regions>"
+        "Generated with weight [15] <in [Space] Regions>"
     ]
 },
 {
@@ -189,26 +165,7 @@
     "uniques": [
         "Generated with weight [25] <in [Nebula] Regions>",
         "Generated near City States with weight [20]",
-        "Generated with weight [20] <in [Space] Regions>",
-        "Generated with weight [12] <in [Deep Space] Regions>", 
-        "Generated with weight [4] <in [Void] Regions>"
-    ]
-},
-{
-    "name": "Living Nebula",
-    "resourceType": "Luxury",
-    "revealedBy": "Mobilization",
-    "terrainsCanBeFoundOn": ["Nebula"],
-    "food": 2,
-    "science": 2,
-    "improvedBy": ["Nebula Sanctuary"], 
-    "improvementStats": {"food": 1, "science": 1},
-    "uniques": [
-        "Generated with weight [25] <in [Nebula] Regions>",
-        "Generated near City States with weight [20]",
-        "Generated with weight [20] <in [Space] Regions>",
-        "Generated with weight [12] <in [Deep Space] Regions>",
-        "Generated with weight [4] <in [Void] Regions>"
+        "Generated with weight [20] <in [Space] Regions>"
     ]
 }
 ]
