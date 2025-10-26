@@ -48,14 +48,5 @@
 	"turnsToBuild": 10,
 	"techRequired": "Nebulogy I",
 	"uniques": [],
-},
-{
-        "name": "Nebula Sanctuary",
-	"terrainsCanBeBuiltOn": [
-		"Nebula"
-	],
-	"turnsToBuild": 10,
-	"techRequired": "Nebulogy II",
-	"uniques": [],
 }
 ]
