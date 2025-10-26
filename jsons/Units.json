@@ -67,7 +67,6 @@
     "cost": 180,
     "strength": 8,
     "uniques": ["Ignores terrain cost"],
-    "promotions": ["Agility I"]
   },
   {
     "name": "Arbiter", 
