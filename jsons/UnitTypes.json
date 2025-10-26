@@ -16,13 +16,37 @@
   //Corvettes, specific for recon with fighting capability.
   {
     "name": "Corvette",
-    "movementType": "Land"
-    "uniques": ["Turn this tile into a [Debris Field] tile <upon being defeated> <with [15]% chance>"],
+    "movementType": "Land",
+    "uniques": ["Turn this tile into a [Debris Field] tile <upon being defeated> <with [15]% chance>"]
   },
   // Frigates, made for general combat.
   {
     "name": "Frigate",
-    "movementType": "Land"
-    "uniques": ["Turn this tile into a [Debris Field] tile <upon being defeated> <with [25]% chance>"],
+    "movementType": "Land",
+    "uniques": ["Turn this tile into a [Debris Field] tile <upon being defeated> <with [25]% chance>"]
+  },
+  // Destroyers, heavier combat vessels with increased firepower.
+  {
+    "name": "Destroyer",
+    "movementType": "Land",
+    "uniques": ["Turn this tile into a [Debris Field] tile <upon being defeated> <with [40]% chance>"]
+  },
+  // Cruisers, versatile capital ships with balanced capabilities.
+  {
+    "name": "Cruiser",
+    "movementType": "Land",
+    "uniques": ["Turn this tile into a [Debris Field] tile <upon being defeated> <with [60]% chance>"]
+  },
+  // Battleships, powerful warships designed for fleet engagements.
+  {
+    "name": "Battleship",
+    "movementType": "Land",
+    "uniques": ["Turn this tile into a [Debris Field] tile <upon being defeated> <with [80]% chance>"]
+  },
+  // Dreadnaughts, massive flagships that dominate the battlefield.
+  {
+    "name": "Dreadnaught",
+    "movementType": "Land",
+    "uniques": ["Turn this tile into a [Debris Field] tile <upon being defeated>"]
   }
 ]
