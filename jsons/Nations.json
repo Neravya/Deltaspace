@@ -66,7 +66,6 @@
 		"leaderName": "LeaderName",
 		"adjective": ["Adjective"],
 		"startBias": ["Asteroids"],
-		"personality": "LeaderName",
 		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": ".",
