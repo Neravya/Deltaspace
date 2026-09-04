@@ -6,7 +6,7 @@
 		"leaderName": "LeaderName",
 		"adjective": ["Adjective"],
 		"startBias": ["Tundra"],
-		"personality": "personalityType",
+		"personality": "LeaderName",
 		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": ".",
@@ -67,7 +67,7 @@
 		"leaderName": "LeaderName",
 		"adjective": ["Adjective"],
 		"startBias": ["Asteroids"],
-		"personality": "personalityType",
+		"personality": "LeaderName",
 		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": ".",
