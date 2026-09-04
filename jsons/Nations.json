@@ -6,7 +6,6 @@
 		"leaderName": "LeaderName",
 		"adjective": ["Adjective"],
 		"startBias": ["Tundra"],
-		"personality": "LeaderName",
 		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": ".",
