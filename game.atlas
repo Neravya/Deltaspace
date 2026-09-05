@@ -8,7 +8,7 @@ TileSets/FantasyHex/Tiles/Space
   xy: 1, 1
   size: 128, 128
   orig: 128, 128
-  offset: 0, 0
+  offset: -3, -3
   index: -1
 TileSets/FantasyHex/Tiles/Asteroids
   rotate: false
