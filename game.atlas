@@ -26,7 +26,7 @@ TileSets/FantasyHex/Tiles/Nebula
   index: -1
 TileSets/FantasyHex/Tiles/Space
   rotate: false
-  xy: 131, 131
+  xy: 100, 100
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
