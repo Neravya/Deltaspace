@@ -19,14 +19,14 @@ TileSets/FantasyHex/Tiles/Mining Operation
   index: -1
 TileSets/FantasyHex/Tiles/Nebula
   rotate: false
-  xy: 1, -131
+  xy: 261, 1
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Space
   rotate: false
-  xy: 131, -131
+  xy: 391, 1
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
