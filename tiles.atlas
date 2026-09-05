@@ -1,4 +1,4 @@
-tiles.png
+tilestest.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -6,27 +6,6 @@ repeat: none
 TileSets/FantasyHex/Tiles/Space
   rotate: false
   xy: 0, 0
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Asteroids
-  rotate: false
-  xy: 128, 1
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Mining Operation
-  rotate: false
-  xy: 256, 1
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Nebula
-  rotate: false
-  xy: 384, 1
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
