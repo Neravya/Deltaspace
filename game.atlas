@@ -12,21 +12,21 @@ TileSets/FantasyHex/Tiles/Asteroids
   index: -1
 TileSets/FantasyHex/Tiles/Mining Operation
   rotate: false
-  xy: 1, 1
+  xy: 131, 1
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Nebula
   rotate: false
-  xy: 1, 1
+  xy: 1, 131
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Space
   rotate: false
-  xy: 1, 1
+  xy: 131, 131
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
