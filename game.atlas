@@ -1,0 +1,33 @@
+game.png
+size: 517, 130
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Space
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Asteroids
+  rotate: false
+  xy: 130, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mining Operation
+  rotate: false
+  xy: 259, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Nebula
+  rotate: false
+  xy: 388, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
