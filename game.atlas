@@ -1,32 +1,32 @@
 game.png
-size: 520, 130
+size: 512, 128
 format: RGBA8888
-filter: Linear, Linear
+filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Tiles/Space
   rotate: false
-  xy: 14, -14
+  xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Asteroids
   rotate: false
-  xy: 131, 1
+  xy: 128, 1
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mining Operation
   rotate: false
-  xy: 261, 1
+  xy: 256, 1
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Nebula
   rotate: false
-  xy: 391, 1
+  xy: 384, 1
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
