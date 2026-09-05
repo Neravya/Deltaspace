@@ -5,10 +5,10 @@ filter: Linear, Linear
 repeat: none
 TileSets/FantasyHex/Tiles/Space
   rotate: false
-  xy: 1, 1
+  xy: -10, -10
   size: 128, 128
   orig: 128, 128
-  offset: -36, -36
+  offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Asteroids
   rotate: false
