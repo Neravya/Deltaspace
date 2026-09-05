@@ -8,7 +8,7 @@ TileSets/FantasyHex/Tiles/Asteroids
   xy: 1, 1
   size: 128, 128
   orig: 128, 128
-  offset: 0, 131
+  offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mining Operation
   rotate: false
