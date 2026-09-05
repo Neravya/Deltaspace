@@ -1,4 +1,4 @@
-game.png
+tiles.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
