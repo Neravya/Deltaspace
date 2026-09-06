@@ -8,5 +8,5 @@ TileSets/FantasyHex/Tiles/Space
   xy: 0, 0
   size: 128, 128
   orig: 128, 128
-  offset: 0, 0
+  offset: 0, -12
   index: -1
