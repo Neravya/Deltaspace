@@ -23,6 +23,7 @@
         "Occurs at temperature between [-0.3] and [0.3] and humidity between [0.3] and [0.7]",
         "A Region is formed with at least [30]% [Stellar Region] tiles, with priority [7]",
         "Considered [Desirable] when determining start locations",
+        "Occurs in groups of [12] to [128] tiles", 
         "Every [45] tiles with this terrain will receive a major deposit of a strategic resource."
     ]
   },
