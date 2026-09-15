@@ -87,7 +87,7 @@
   },
   {
     "name": "Dense Asteroids",
-    "type": "TerrainFeature",
+    "type": "Land",
     "production": 1,
     "movementCost": 2,
     "impassable": true,
