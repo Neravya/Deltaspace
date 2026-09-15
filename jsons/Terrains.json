@@ -37,6 +37,7 @@
     "RGB": [180, 100, 220],
     "occursOn": ["Space", "Stellar Region"],
     "uniques": [
+        "Rare feature",
         "Occurs in groups of [3] to [21] tiles",
         "Blocks line-of-sight from tiles at same elevation",
         "Occurs at temperature between [-0.3] and [0.3] and humidity between [0.3] and [0.7]",
