@@ -8,7 +8,7 @@
     "uniques": [
         "[+3] to Fertility for Map Generation",
         "Occurs at temperature between [-0.3] and [0.3] and humidity between [0.3] and [0.7]",
-        "A Region is formed with at least [70]% [Space] tiles, with priority [8]",
+        "A Region is formed with at least [70]% [Space] tiles, with priority [1]",
         "Considered [Desirable] when determining start locations",
         "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
     ]
@@ -21,7 +21,7 @@
     "uniques": [
         "[+1] to Fertility for Map Generation",
         "Occurs at temperature between [-0.3] and [0.3] and humidity between [0.3] and [0.7]",
-        "A Region is formed with at least [30]% [Stellar Region] tiles, with priority [7]",
+        "A Region is formed with at least [30]% [Stellar Region] tiles, with priority [1]",
         "Considered [Desirable] when determining start locations",
         "Occurs in groups of [12] to [128] tiles", 
         "Every [45] tiles with this terrain will receive a major deposit of a strategic resource."
@@ -43,7 +43,7 @@
         "Occurs in groups of [3] to [21] tiles", 
         "Blocks line-of-sight from tiles at same elevation",
         "[+2] to Fertility for Map Generation",
-        "A Region is formed with at least [25]% [Nebula] tiles, with priority [5]",
+        "A Region is formed with at least [25]% [Nebula] tiles, with priority [2]",
         "Considered [Desirable] when determining start locations",
         "Every [39] tiles with this terrain will receive a major deposit of a strategic resource."
     ]
