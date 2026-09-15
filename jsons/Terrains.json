@@ -2,7 +2,7 @@
 [
   {
     "name": "Space",
-    "type": "Land", 
+    "type": "Water", 
     "movementCost": 1,
     "RGB": [40, 40, 40],
     "uniques": [
