@@ -37,8 +37,8 @@
     "RGB": [180, 100, 220],
     "occursOn": ["Space", "Stellar Region"],
     "uniques": [
-        "Occurs in groups around high elevations",
-        "[+3] Strength for cities built on this terrain",
+        // "Occurs in groups around high elevations",
+        // "[+3] Strength for cities built on this terrain",
         "Has an elevation of [2] for visibility calculations",
         "Blocks line-of-sight from tiles at same elevation",
         "[+1] to Fertility for Map Generation",
@@ -56,6 +56,7 @@
     "occursOn": ["Space", "Stellar Region", "Asteroids", "Nebula"],
     "uniques": [
         "Rare feature",
+        "Occurs in groups of [1] to [4] tiles", 
         "Has an elevation of [2] for visibility calculations",
         "Blocks line-of-sight from tiles at same elevation",
         "Units ending their turn on this terrain take [20] damage",
