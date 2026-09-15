@@ -37,13 +37,10 @@
     "RGB": [180, 100, 220],
     "occursOn": ["Space", "Stellar Region"],
     "uniques": [
-        // "Occurs in groups around high elevations",
-        // "(+3) Strength for cities built on this terrain",
-        // "Has an elevation of (2) for visibility calculations",
-        "Occurs in groups of [3] to [21] tiles", 
+        "Occurs in groups of [3] to [21] tiles",
         "Blocks line-of-sight from tiles at same elevation",
-        "[+2] to Fertility for Map Generation",
-        "A Region is formed with at least [25]% [Nebula] tiles, with priority [2]",
+        "Occurs at temperature between [-0.3] and [0.3] and humidity between [0.3] and [0.7]",
+        "[+1] to Fertility for Map Generation",
         "Considered [Desirable] when determining start locations",
         "Every [39] tiles with this terrain will receive a major deposit of a strategic resource."
     ]
