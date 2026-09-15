@@ -37,7 +37,7 @@
     "RGB": [180, 100, 220],
     "occursOn": ["Space", "Stellar Region"],
     "uniques": [
-        // "Occurs in groups around high elevations",
+        "Occurs in groups around high elevations",
         // "(+3) Strength for cities built on this terrain",
         // "Has an elevation of (2) for visibility calculations",
         "Occurs in groups of [3] to [21] tiles", 
