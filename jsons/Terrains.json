@@ -75,11 +75,11 @@
     "uniques": [
       "Rough terrain",
       "Vegetation",
-      "Occurs in groups of [4] to [6] tiles",
-      "[+5] Strength for cities built on this terrain",
+      "Occurs in groups of [4] to [8] tiles",
+      "[+1] Strength for cities built on this terrain",
       "Has an elevation of [2] for visibility calculations",
       "[+1] to Fertility for Map Generation",
-      "A Region is formed with at least [25]% [Asteroids] tiles, with priority [5]",
+      "A Region is formed with at least [30]% [Asteroids] tiles, with priority [5]",
       "Considered [Desirable] when determining start locations",
       "Considered [Production] when determining start locations",
       "Every [37] tiles with this terrain will receive a major deposit of a strategic resource."
@@ -115,16 +115,10 @@
   "occursOn": ["Space", "Stellar Region", "Nebula", "Asteroids"],
   "uniques": [
     "Rough terrain",
-    "Doesn't generate naturally",
-    "Nullifies all other stats this tile provides",
-    "Provides a one-time bonus of [+20 Production] to the closest city when cut down <(modified by game speed)>",
-    "[25]% Chance to be destroyed by nukes",
-    "Considered [Undesirable] when determining start locations",
-    "Rough terrain",
     "Doesn't generate naturally", // ONLY FROM COMBAT
     "Nullifies all other stats this tile provides",
     "Provides a one-time bonus of [+20 Production] to the closest city when cut down <(modified by game speed)>",
-    "[25]% Chance to be destroyed by nukes",
+    "[80]% Chance to be destroyed by nukes",
     "Considered [Undesirable] when determining start locations"
   ]
   }
