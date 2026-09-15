@@ -3,28 +3,21 @@ size: 384, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/FantasyHex/Tiles/River
+TileSets/FantasyHex/Tiles/River/River-Bottom
   rotate: false
   xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-River-Bottom
-  rotate: false
-  xy: 0, 0
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-River-BottomLeft
+TileSets/FantasyHex/Tiles/River/River-BottomLeft
   rotate: false
   xy: 128, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-River-BottomRight
+TileSets/FantasyHex/Tiles/River/River-BottomRight
   rotate: false
   xy: 256, 0
   size: 128, 128
